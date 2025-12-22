@@ -1,0 +1,1618 @@
+{
+  "version": "1.0",
+  "subject": "Sinh học 12 - Nhiễm sắc thể và đột biến",
+  "questions": [
+    {
+      "id": "KH_NST_01",
+      "type": "mcq",
+      "question": "Trong các phát biểu sau về nhiễm sắc thể ở sinh vật nhân thực\nphát biểu nào sai?",
+      "choices": [
+        "số lượng NST trong tế bào càng nhiều sinh vật càng tiến hoá",
+        "bộ NST của mỗi loài đặc trưng về hình thái, số lượng và cấu trúc",
+        "giới tính của một loài phụ thuộc vào sự có mặt của cặp nhiễm sắc thể giới tính trong tế bào.",
+        "hình thái của nhiễm sắc thể biến đổi qua các kì phân bào."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "KH_NST_02",
+      "type": "mcq",
+      "question": "Mỗi loài đều có một bộ nhiễm sắc thể đặc trưng về",
+      "choices": [
+        "hình dạng, cấu trúc và cách sắp xếp.",
+        "hình thái, số lượng và cấu trúc.",
+        "thành phần, số lượng và cấu trúc.",
+        "số lượng, cấu trúc và cách sắp xếp."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "KH_NST_03",
+      "type": "mcq",
+      "question": "Nhiễm sắc thể được cấu tạo từ các thành phần cơ bản là",
+      "choices": [
+        "DNA và protein phi histone.",
+        "DNA, RNA và protein histone.",
+        "DNA và protein histone.",
+        "DNA, RNA và protein phi histone."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "KH_NST_04",
+      "type": "mcq",
+      "question": "Trong các mức cấu trúc siêu hiển vi của nhiễm sắc thể điển hình ở sinh vật nhân thực,\nsợi cơ bản và sợi nhiễm sắc có đường kính lần lượt là",
+      "choices": [
+        "10 nm và 300 nm.",
+        "10 nm và 30 nm.",
+        "30 nm và 10 nm.",
+        "30 nm và 300 nm"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "KH_NST_05",
+      "type": "mcq",
+      "question": "Nhiễm sắc thể (NST) kép được cấu tạo từ:",
+      "choices": [
+        "hai NST đơn dính nhau qua tâm động.",
+        "hai chromatide dính nhau qua tâm động.",
+        "hai sợi nhiễm sắc dính nhau qua tâm động.",
+        "hai NST tương đồng."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "KH_NST_06",
+      "type": "mcq",
+      "question": "Sự thu gọn cấu trúc không gian của nhiễm sắc thể",
+      "choices": [
+        "thuận lợi cho sự phân ly các nhiễm sắc thể trong quá trình phân bào.",
+        "thuận lợi cho sự tổ hợp các nhiễm sắc thể trong quá trình phân bào.",
+        "thuận lợi cho sự phân ly, sự tổ hợp các nhiễm sắc thể trong quá trình phân bào.",
+        "giúp tế bào chứa được nhiều nhiễm sắc thể."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "KH_NST_07",
+      "type": "mcq",
+      "question": "Cặp NST tương đồng là cặp NST",
+      "choices": [
+        "Giống nhau về hình thái, khác nhau về kích thước và một có nguồn gốc từ bố, một có nguồn gốc từ mẹ.",
+        "Giống nhau về hình thái, kích thước và có cùng nguồn gốc từ bố hoặc có nguồn gốc từ mẹ.",
+        "Khác nhau về hình thái, giống nhau về kích thước và một có nguồn gốc từ bố, một có nguồn gốc từ mẹ.",
+        "Giống nhau về hình thái, kích thước và một có nguồn gốc từ bố, một có nguồn gốc từ mẹ."
+      ],
+      "answer": 3
+    },
+    {
+      "id": "KH_NST_08",
+      "type": "mcq",
+      "question": "Một nucleosome có cấu trúc gồm:",
+      "choices": [
+        "Lõi 8 phân tử histone được một đoạn DNA chứa 146 cặp nucleotide quấn quanh 1 (3/4) vòng.",
+        "Phân tử histone được quấn bởi một đoạn DNA dài 156 cặp nucleotide.",
+        "Lõi là một đoạn DNA chứa 146 cặp nucleotide được bọc ngoài bởi 8 phân tử protein histone.",
+        "9 phân tử histone được quấn quanh bởi một đoạn DNA chứa 140 cặp nucleotide."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "KH_NST_09",
+      "type": "mcq",
+      "question": "Ở các giao tử đực hoặc cái sau giảm phân, đặc điểm bộ NST của chúng là:",
+      "choices": [
+        "Mang bộ NST có số lượng giảm đi 1 nửa, NST tồn tại thành cặp tương đồng.",
+        "Mang bộ NST đơn bội ở trạng thái kép.",
+        "Mang bộ NST đơn bội, mỗi cặp NST tương đồng chỉ còn lại một.",
+        "Mang bộ NST lưỡng bội."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "KH_NST_10",
+      "type": "mcq",
+      "question": "Cấu trúc siêu hiển vi của nhiễm sắc thể gồm DNA và protein histone được xoắn lần lượt theo các cấp độ:",
+      "choices": [
+        "DNA + histone → sợi nhiễm sắc → sợi cơ bản → nucleosome → sợi chromatid → NST.",
+        "DNA + histone → nucleosome → sợi cơ bản → sợi nhiễm sắc → sợi chromatid → NST.",
+        "DNA + histone → nucleosome → sợi nhiễm sắc → sợi cơ bản → sợi chromatid → NST.",
+        "DNA + histone → sợi cơ bản → nucleosome → sợi nhiễm sắc → sợi chromatid → NST."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "DBCT_NST_01",
+      "type": "mcq",
+      "question": "Dạng đột biến nào sau đây chỉ làm thay đổi trình tự sắp xếp của các gene trên NST\nmà không làm thay đổi hình thái của NST?",
+      "choices": [
+        "Đột biến đảo đoạn qua tâm động",
+        "Đột biến đảo đoạn ngoài tâm động.",
+        "Đột biến chuyển đoạn và đảo đoạn.",
+        "Đột biến gen và đột biến đảo đoạn."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "DBCT_NST_02",
+      "type": "mcq",
+      "question": "Một NST có trình tự các gen là ABCDEFG●HI bị đột biến thành NST có trình tự các gen là ADCBEFG●HI..\nĐây là dạng đột biến nào?.",
+      "choices": [
+        "Chuyển đoạn.",
+        "Lặp đoạn.",
+        "Đảo đoạn.",
+        "Mất đoạn."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "DBCT_NST_03",
+      "type": "mcq",
+      "question": "Ở người, đột biến …(1)… vùng quanh tâm động của nhiễm sắc thể số 9 tạo ra các giao tử bất thường\nlàm tăng nguy cơ sảy thai, các trường hợp có khả năng sống sẽ mắc các dị tật bẩm sinh.\nCụm từ (1) là",
+      "choices": [
+        "Đảo đoạn.",
+        "Lặp đoạn.",
+        "Chuyển đoạn.",
+        "Mất đoạn."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "DBCT_NST_04",
+      "type": "mcq",
+      "question": "Ở người, đột biến …(1)… giữa nhiễm sắc thể số 9 và 22 gây bệnh bạch cầu dòng tuỷ mạn tính.\nCụm từ (1) là",
+      "choices": [
+        "Đảo đoạn.",
+        "Lặp đoạn.",
+        "Chuyển đoạn không tương hỗ.",
+        "Chuyển đoạn tương hỗ."
+      ],
+      "answer": 3
+    },
+    {
+      "id": "DBCT_NST_05",
+      "type": "mcq",
+      "question": "Hình vẽ sau mô tả 1 dạng đột biến cấu trúc NST.\nPhát biểu nào sau đây sai?",
+      "choices": [
+        "Dạng đột biến này giúp nhà chọn giống loại bỏ gen không mong muốn.",
+        "Hình vẽ mô tả dạng đột biến mất đoạn NST.",
+        "Dạng đột biến này làm mất cân bằng gen nên thường gây chết đối với cơ thể đột biến.",
+        "Dạng đột biến này không làm thay đổi trình tự gen trên NST."
+      ],
+      "answer": 3
+    },
+    {
+      "id": "DBCT_NST_06",
+      "type": "mcq",
+      "question": "Đột biến mất đoạn NST có các đặc điểm",
+      "choices": [
+        "Làm thay đổi hàm lượng DNA ở trong nhân tế bào.",
+        "Làm thay đổi chiều dài của phân tử DNA.",
+        "Xảy ra ở thực vật mà ít gặp ở động vật.",
+        "làm xuất hiện các alen mới trong quần thể."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "DBCT_NST_07",
+      "type": "mcq",
+      "question": "Phát biểu sau đây đúng khi nói về đột biến đảo đoạn NST?",
+      "choices": [
+        "Đột biến đảo đoạn NST không thể làm thay đổi mức độ hoạt động của gen.",
+        "Đột biến đảo đoạn NST làm thay đổi hàm lượng DNA ở trong nhân tế bào.",
+        "Đột biến đảo đoạn NST không làm thay đổi thành phần và số lượng gen trên NST nên không gây hại cho thể đột biến.",
+        "Một số thể đột biến mang NST bị đảo đoạn có thể bị giảm khả năng sinh sản."
+      ],
+      "answer": 3
+    },
+    {
+      "id": "DBCT_NST_08",
+      "type": "mcq",
+      "question": "Trong các dạng đột biến sau, có bao nhiêu dạng đột biến có thể làm thay đổi hình thái của NST?\nI. Mất đoạn   II. Lặp đoạn NST   III. Đột biến gen.   IV. Đảo đoạn ngoài tâm động   V. Chuyển đoạn tương hỗ.",
+      "choices": [
+        "1.",
+        "2.",
+        "3.",
+        "4."
+      ],
+      "answer": 3
+    },
+    {
+      "id": "DBCT_NST_09",
+      "type": "mcq",
+      "question": "Hình dưới đây thể hiện đột biến cấu trúc nhiễm sắc thể dạng nào?",
+      "choices": [
+        "Đảo đoạn.",
+        "Lặp đoạn.",
+        "Chuyển đoạn.",
+        "Mất đoạn."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "DBCT_NST_10",
+      "type": "mcq",
+      "question": "Hình dưới đây thể hiện đột biến cấu trúc nhiễm sắc thể dạng nào?",
+      "choices": [
+        "Đảo đoạn.",
+        "Lặp đoạn.",
+        "Chuyển đoạn.",
+        "Mất đoạn."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "DBCT_NST_11",
+      "type": "mcq",
+      "question": "Loại đột biến nào sau đây không làm thay đổi số lượng gene của nhiễm sắc thể?",
+      "choices": [
+        "Đảo đoạn.",
+        "Mất đoạn.",
+        "Lặp đoạn.",
+        "Chuyển đoạn không tương hỗ."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "DBCT_NST_12",
+      "type": "mcq",
+      "question": "Loại đột biến nào sau đây làm giảm độ dài của nhiễm sắc thể?",
+      "choices": [
+        "Lặp đoạn.",
+        "Đảo đoạn.",
+        "Mất đoạn.",
+        "Thêm một cặp nucleotide."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "DBCT_NST_13",
+      "type": "mcq",
+      "question": "Dạng đột biến cấu trúc nhiễm sắc thể nào sau đây có thể làm cho hai allele của một gene cùng nằm trên một nhiễm sắc thể đơn?",
+      "choices": [
+        "Chuyển đoạn trong một nhiễm sắc thể.",
+        "Đảo đoạn.",
+        "Mất đoạn.",
+        "Lặp đoạn."
+      ],
+      "answer": 3
+    },
+    {
+      "id": "DBCT_NST_14",
+      "type": "mcq",
+      "question": "Trong một quần thể thực vật, người ta phát hiện thấy do đột biến đảo đoạn đã tạo ra các gene trên NST số 7 có các gene phân bố theo trình tự là\n1 – ABCDEFGH.\n2 – ABCDGFEH.\n3 – ABGDCFEH.\nNếu dạng 1 là dạng ban đầu thì thứ tự xuất hiện các dạng tiếp theo là:",
+      "choices": [
+        "2 ← 1 → 3.",
+        "2 ← 1 → 3.",
+        "1 → 3 → 2.",
+        "1 → 2 → 3."
+      ],
+      "answer": 3
+    },
+    {
+      "id": "DBCT_NST_15",
+      "type": "mcq",
+      "question": "Những dạng đột biến cấu trúc nhiễm sắc thể không làm thay đổi số lượng và thành phần gene trên một nhiễm sắc thể là:",
+      "choices": [
+        "Đảo đoạn và chuyển đoạn trên cùng một nhiễm sắc thể.",
+        "Mất đoạn và lặp đoạn.",
+        "Lặp đoạn và chuyển đoạn trên cùng một nhiễm sắc thể.",
+        "Mất đoạn và đảo đoạn."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "DBCT_NST_16",
+      "type": "mcq",
+      "question": "Dạng đột biến nào sau đây có thể sẽ làm phát sinh các gene mới?",
+      "choices": [
+        "Đột biến lệch bội.",
+        "Đột biến đảo đoạn NST.",
+        "Đột biến lặp đoạn NST.",
+        "Đột biến đa bội."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "DBCT_NST_17",
+      "type": "mcq",
+      "question": "Ở một loài có 4 dòng, các gene trên NST số 1 của mỗi dòng như sau:\nDòng 1: ABCDEGHIK.\nDòng 2: ABHGICDEK.\nDòng 3: ABHGEDCIK.\nDòng 4: AIGHBCDEK.\nNếu từ dòng 1 đã phát sinh đột biến đảo đoạn để hình thành các dòng còn lại thì thứ tự phát sinh đột biến của các dòng nói trên là:",
+      "choices": [
+        "(1) → (3) → (2) → (4).",
+        "(1) → (4) → (2) → (3).",
+        "(1) → (2) → (3) → (4).",
+        "(1) → (3) → (4) → (2)."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "DBCT_NST_18",
+      "type": "mcq",
+      "question": "Ở một loài, NST số 1 có trình tự sắp xếp các gene: ABCDEGH.\nSau khi bị đột biến, NST này có cấu trúc ABGEDCH.\nĐây là dạng đột biến:",
+      "choices": [
+        "Lặp đoạn NST.",
+        "Mất đoạn NST.",
+        "Đảo đoạn NST.",
+        "Chuyển đoạn NST."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "DBCT_NST_19",
+      "type": "mcq",
+      "question": "Khi nói về đột biến lặp đoạn nhiễm sắc thể, phát biểu nào sau đây sai?",
+      "choices": [
+        "Đột biến lặp đoạn dẫn đến lặp gene, tạo điều kiện cho đột biến gene.",
+        "Đột biến lặp đoạn có thể có hại cho thể đột biến.",
+        "Đột biến lặp đoạn luôn làm tăng khả năng sinh sản của thể đột biến.",
+        "Đột biến lặp đoạn làm tăng chiều dài của nhiễm sắc thể."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "DBCT_NST_20",
+      "type": "mcq",
+      "question": "Ở một loài động vật, người ta đã phát hiện 4 nòi có trình tự các gene trên nhiễm sắc thể số III như sau:\nNòi 1: ABCDEFGHI;\nNòi 2: HEFBAGCDI;\nNòi 3: ABFEDCGHI;\nNòi 4: ABFEHGCDI.\nCho biết nòi 1 là nòi gốc, mỗi nòi còn lại được phát sinh do một đột biến đảo đoạn.\nTrình tự đúng của sự phát sinh các nòi trên là:",
+      "choices": [
+        "1 → 3 → 4 →2",
+        "1→ 4 → 2 → 3",
+        "1 → 3 → 2 → 4",
+        "1 → 2 → 4 → 3"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "DBCT_NST_21",
+      "type": "mcq",
+      "question": "Ở kì đầu của giảm phân I, sự tiếp hợp và trao đổi chéo không cân giữa các đoạn chromatid cùng nguồn gốc trong cặp NST tương đồng\nsẽ dẫn tới dạng đột biến:",
+      "choices": [
+        "Mất cặp và thêm cặp nucleotide.",
+        "Đảo đoạn NST.",
+        "Mất đoạn và lặp đoạn NST.",
+        "Chuyển đoạn NST."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "DBCT_NST_22",
+      "type": "mcq",
+      "question": "Khi nói về đột biến cấu trúc nhiễm sắc thể, phát biểu nào sau đây đúng?",
+      "choices": [
+        "Đột biến mất đoạn không làm thay đổi số lượng gene trên nhiễm sắc thể.",
+        "Đột biến cấu trúc nhiễm sắc thể chỉ xảy ra ở nhiễm sắc thể thường mà không xảy ra ở nhiễm sắc thể giới tính.",
+        "Đột biến đảo đoạn làm cho gene từ nhóm liên kết này chuyển sang nhóm liên kết khác.",
+        "Đột biến chuyển đoạn có thể không làm thay đổi số lượng và thành phần gene của một nhiễm sắc thể."
+      ],
+      "answer": 3
+    },
+    {
+      "id": "DBLB_NST_01",
+      "type": "mcq",
+      "question": "Một loài thực vật lưỡng bội 2n.\nHợp tử của loài có bộ NST 2n + 1 phát triển thành thể đột biến nào sau đây?",
+      "choices": [
+        "Thể tam bội.",
+        "Thể một nhiễm.",
+        "Thể ba nhiễm.",
+        "Thể tứ bội."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "DBLB_NST_02",
+      "type": "mcq",
+      "question": "Một loài thực vật lưỡng bội có 2n=24.\nSố NST có trong mỗi tế bào ở thể một của loài này đang ở kì sau của nguyên phân là",
+      "choices": [
+        "48",
+        "23",
+        "46",
+        "24"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "DBLB_NST_03",
+      "type": "mcq",
+      "question": "Ở cà chua có bộ nhiễm sắc thể 2n = 24.\nSố lượng nhiễm sắc thể có trong một tế bào của thể ba thuộc loài này là:",
+      "choices": [
+        "25.",
+        "22.",
+        "36.",
+        "23."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "DBLB_NST_04",
+      "type": "mcq",
+      "question": "Ở người, hội chứng bệnh nào sau đây chỉ xuất hiện ở nữ giới?",
+      "choices": [
+        "Hội chứng Turner.",
+        "Hội chứng AIDS.",
+        "Hội chứng Down.",
+        "Hội chứng Klinefelter."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "DBLB_NST_05",
+      "type": "mcq",
+      "question": "Giả sử ở một loại thực vật có bộ NST 2n = 6, các cặp NST tương đồng được kí hiệu là Aa, Bb và Dd.\nTrong các dạng sau đây, dạng nào là thể một nhiễm?.",
+      "choices": [
+        "AaBbbb.",
+        "AAaaBBbbDDdd.",
+        "AaBDd.",
+        "AaBbdd."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "DBLB_NST_06",
+      "type": "mcq",
+      "question": "Một người phụ nữ trong tế bào sinh dưỡng có 47 nhiễm sắc thể.\nTrong đó, nhiễm sắc thể số 21 có ba chiếc.\nNgười này bị bệnh hoặc hội chứng nào sau đây?",
+      "choices": [
+        "Turner.",
+        "Down.",
+        "Phenylketone niệu.",
+        "Ung thư máu."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "DBLB_NST_07",
+      "type": "mcq",
+      "question": "Người mắc hội chứng bệnh nào sau đây là thể một nhiễm?.",
+      "choices": [
+        "Hội chứng Down.",
+        "Hội chứng Klinefelter.",
+        "Hội chứng Turner.",
+        "Hội chứng AIDS."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "DBLB_NST_08",
+      "type": "mcq",
+      "question": "Hợp tử được hình thành trong trường hợp nào sau đây có thể phát triển thành thể một nhiễm?.",
+      "choices": [
+        "Giao tử n kết hợp với giao tử n.",
+        "Giao tử n kết hợp với giao tử n - 1.",
+        "Giao tử 2n kết hợp với giao tử 2n.",
+        "Giao tử n kết hợp với giao tử 2n."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "DBLB_NST_09",
+      "type": "mcq",
+      "question": "Một thể đột biến được gọi là thể ba nhiễm nếu:",
+      "choices": [
+        "Trong tế bào sinh dưỡng có một cặp NST chứa 3 chiếc các cặp NST còn lại đều có 2 chiếc.",
+        "Trong tế bào sinh dưỡng, NST tồn tại thành từng bộ 4 chiếc.",
+        "Trong tế bào sinh dưỡng, có một cặp gồm 1 NST, các cặp còn lại đều có 2 chiếc.",
+        "Trong tế bào sinh dưỡng, NST tồn tại thành từng bộ 3 chiếc."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "DBLB_NST_10",
+      "type": "mcq",
+      "question": "Một thể đột biến được gọi là thể một nếu:",
+      "choices": [
+        "Trong tế bào sinh dưỡng, NST tồn tại thành cặp tương đồng.",
+        "Trong tế bào sinh dưỡng, NST tồn tại thành từng bộ 3 chiếc.",
+        "Trong tế bào sinh dưỡng, NST tồn tại thành từng bộ 4 chiếc.",
+        "Trong tế bào sinh dưỡng, có một cặp chỉ có 1 NST, các cặp còn lại đều có 2 chiếc."
+      ],
+      "answer": 3
+    },
+    {
+      "id": "DBLB_NST_11",
+      "type": "mcq",
+      "question": "Cơ thể lưỡng bội (2n) có kiểu gen AaBbDd.\nCó một thể đột biến số lượng NST mang kiểu gen AAAaBbDb.\nThể đột biến này thuộc dạng …(1)…\nCác từ/cụm từ cần điền vào vị trí (1) là:",
+      "choices": [
+        "1 – thể bốn.",
+        "1 – thể ba.",
+        "1 – thể tam bội.",
+        "1 – thể ba kép."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "DBLB_NST_12",
+      "type": "mcq",
+      "question": "Một loài có bộ NST 2n.\nThể đột biến …(1)… có số lượng NST là số lẻ.\nCác từ/cụm từ cần điền vào vị trí (1) là:",
+      "choices": [
+        "1 – thể bốn.",
+        "1 – thể một.",
+        "1 – thể không.",
+        "1 – thể ba kép."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "DBLB_NST_13",
+      "type": "mcq",
+      "question": "Khi nói về đột biến lệch bội, phát biểu nào sau đây là đúng?",
+      "choices": [
+        "Đột biến lệch bội cũng có thể được xảy ra trong nguyên phân ở các tế bào sinh dưỡng hình thành nên thể khảm.",
+        "Đột biến lệch bội được phát sinh do rối loạn phân bào làm cho tất cả các cặp NST tương đồng đều không phân li.",
+        "Ở cùng một loài, tần số xảy ra đột biến lệch bội thể không thường cao hơn đột biến lệch bội dạng thể một.",
+        "Ở tế bào sinh dục, đột biến lệch bội chỉ xảy ra ở cặp NST giới tính mà không xảy ra ở cặp"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "DBLB_NST_14",
+      "type": "mcq",
+      "question": "Khi nói về cơ chế phát sinh đột biến lệch bội, phát biểu nào sau đây đúng?",
+      "choices": [
+        "Rối loạn quá trình nhân đôi DNA có thể dẫn tới phát sinh đột biến lệch bội.",
+        "Lệch bội được phát sinh chủ yếu trong phân bào nguyên phân.",
+        "Lệch bội có thể được phát sinh trong giảm phân hoặc trong nguyên phân.",
+        "Lệch bội chỉ được phát sinh ở các loài sinh sản hữu tính."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "DBLB_NST_15",
+      "type": "mcq",
+      "question": "Một loài thực vật có 5 cặp nhiễm sắc thể được kí hiệu là Aa, Bb, Dd, Ee, Hh.\nTrong các cơ thể có bộ nhiễm sắc thể sau đây, có bao nhiêu thể ba nhiễm?\nI-AaBbDdEeHhh. II- AaDdEeHh. III-AaBbDdHh. IV-AaaBbDdEeHh. V-AaBbDdeHh. VI- AaBbEeHh.",
+      "choices": [
+        "1",
+        "4",
+        "3",
+        "2"
+      ],
+      "answer": 3
+    },
+    {
+      "id": "DBLB_NST_16",
+      "type": "mcq",
+      "question": "Sự không phân li của một cặp NST ở một số tế bào trong giảm phân hình thành giao tử ở một bên bố hoặc mẹ,\nqua thụ tinh có thể hình thành các hợp tử mang bộ NST là",
+      "choices": [
+        "2n; 2n + 1; 2n - 1.",
+        "2n; 2n + 2; 2n - 2.",
+        "2n; 2n + 1.",
+        "2n + 1; 2n - 1."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "DBLB_NST_17",
+      "type": "mcq",
+      "question": "Xét các loại đột biến sau:\n(1) Mất đoạn NST. (2) Lặp đoạn NST. (3) Chuyển đoạn không tương hỗ. (4) Đảo đoạn NST. (5) Đột biến thể một. (6) Đột biến thể ba.\nNhững loại đột biến làm thay đổi độ dài của phân tử ADN là",
+      "choices": [
+        "(1), (2), (3), (6).",
+        "(1), (2), (3).",
+        "(2), (3), (4), (5).",
+        "(1), (2), (5), (6)."
+      ],
+      "answer": 3
+    },
+    {
+      "id": "DBDB_NST_01",
+      "type": "mcq",
+      "question": "Một loài thực vật có bộ NST lưỡng bội 2n.\nCây tứ bội được phát sinh từ loài này có bộ NST là",
+      "choices": [
+        "4n.",
+        "n.",
+        "2n.",
+        "3n."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "DBDB_NST_02",
+      "type": "mcq",
+      "question": "Một loài có bộ nhiễm sắc thể 2n = 24.\nThể tam bội của loài này có số lượng nhiễm sắc thể là",
+      "choices": [
+        "36.",
+        "72.",
+        "12.",
+        "25."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "DBDB_NST_03",
+      "type": "mcq",
+      "question": "Ở lúa có bộ NST 2n = 24.\nTế bào nào sau đây là thể tứ bội?",
+      "choices": [
+        "Tế bào có 25 NST.",
+        "Tế bào có 48 NST",
+        "Tế bào có 36 NST.",
+        "Tế bào có 23 NST."
+      ],
+      "answer": 1
+    },
+    {
+      "id": "DBDB_NST_04",
+      "type": "mcq",
+      "question": "Theo lý thuyết phương pháp gây đột biến tự đa bội,\ntừ các tế bào thực vật có kiểu gen AA, Aa, aa không tạo ra được tế bào tứ bội có kiểu gen nào sau đây?.",
+      "choices": [
+        "AAAa",
+        "AAAA",
+        "AAaa",
+        "aaaa"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "DBDB_NST_05",
+      "type": "mcq",
+      "question": "Cây dưa hấu tam bội có số NST trong mỗi tế bào sinh dưỡng là",
+      "choices": [
+        "2n +1.",
+        "4n.",
+        "3n.",
+        "2n-1."
+      ],
+      "answer": 2
+    },
+    {
+      "id": "DBDB_NST_06",
+      "type": "mcq",
+      "question": "Đâu là lí do làm cho thể đa bội ít gặp ở động vật?",
+      "choices": [
+        "Đa số các động vật không có khả năng sinh sản sinh dưỡng.",
+        "Động vật không tạo được giao tử có khả năng sống và thụ tinh.",
+        "Trong thiên nhiên động vật ít khi bị đột biến hơn so với thực vật.",
+        "Cơ chế xác định giới tính bị rối loạn ảnh hưởng đến qúa trình sinh sản."
+      ],
+      "answer": 3
+    },
+    {
+      "id": "DBDB_NST_07",
+      "type": "mcq",
+      "question": "Thể tứ bội và thể song nhị bội có điểm khác nhau cơ bản như thế nào?",
+      "choices": [
+        "Chỉ có chỉ có thể song nhị bội có khả năng duy trì nòi giống.",
+        "Thể tứ bội có khả năng hữu thụ còn thể song nhị bội thường bất thụ.",
+        "Thể tứ bội là kết quả của các tác nhân gây đột biến nhân tạo, thể song nhị bội là kết quả của lai xa và đa bội hoá tự nhiên.",
+        "Thể tứ bội có bộ NST là bội số của bộ NST đơn bội (đa bội cùng nguồn), thể song nhị bội gồm 2 bộ NST lưỡng bội (đa bội khác nguồn)."
+      ],
+      "answer": 3
+    },
+    {
+      "id": "DBDB_NST_08",
+      "type": "mcq",
+      "question": "Khi nói về đột biến nhiễm sắc thể, nhận định nào sau đây đúng?.",
+      "choices": [
+        "Nếu tất cả các nhiễm sắc thể không phân li ở lần nguyên phân đầu tiên của hợp tử thì có thể tạo thể tứ bội.",
+        "Sự không phân li một hoặc một số cặp nhiễm sắc thể trong quá trình nguyên phân ở các tế bào sinh dưỡng có thể hình thành thể tứ bội.",
+        "Dạng đột biến dẫn tới sự trao đổi đoạn trong một nhiễm sắc thể hoặc giữa các nhiễm sắc thể không tương đồng gọi là đột biến đảo đoạn.",
+        "Trong quá trình phân bào giảm phân một cặp nhiễm sắc thể không phân li tạo giao tử đột biến, giao tử này kết hợp với giao tử bình thường có thể tạo ra thể đa bội."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "DBDB_NST_09",
+      "type": "mcq",
+      "question": "Hợp tử được hình thành trong trường hợp nào sau đây có thể phát triển thành thể tam bội?",
+      "choices": [
+        "Giao tử (n) kết hợp với giao tử (n + 1).",
+        "Giao tử (n) kết hợp với giao tử (2n).",
+        "Giao tử (n) kết hợp với giao tử (n - 1).",
+        "Giao tử (2n) kết hợp với giao tử (2n)."
+      ],
+      "answer": 1
+    },
+    {
+  "id": "DBDB_NST_11",
+  "type": "mcq",
+  "question": "Ở một loài thực vật, sự kết hợp giữa giao tử 2n và giao tử 2n\ntạo thành hợp tử có bộ NST.",
+  "choices": [
+    "3n.",
+    "n.",
+    "2n.",
+    "4n."
+  ],
+  "answer": 3
+},
+{
+  "id": "DBDB_NST_12",
+  "type": "mcq",
+  "question": "Dùng colchicin xử lí hợp tử có kiểu gen AaBb,\nsau đó cho phát triển thành cây hoàn chỉnh thì có thể tạo ra được thể tứ bội có kiểu gen.",
+  "choices": [
+    "AaaaBBbb.",
+    "AAAaBBbb.",
+    "AAaaBBbb.",
+    "AAaaBbbb."
+  ],
+  "answer": 2
+},
+{
+  "id": "DBDB_NST_13",
+  "type": "mcq",
+  "question": "Một loài thực vật có cơ quan sinh dưỡng lớn, phát triển khỏe, chống chịu tốt\ncó thể là kết quả của đột biến nào sau đây ?.",
+  "choices": [
+    "Lệch bội.",
+    "Đa bội.",
+    "Đơn bội.",
+    "Lưỡng bội."
+  ],
+  "answer": 1
+},
+{
+  "id": "DBDB_NST_14",
+  "type": "mcq",
+  "question": "Khi nói về thể tự đa bội, phát biểu nào sau đây đúng?",
+  "choices": [
+    "Giao tử của thể tự đa bội chứa bộ NST lưỡng bội (2n).",
+    "Thể tự đa bội vẫn có khả năng sinh sản hữu tính bình thường.",
+    "Thể tự đa bội thường có các cơ quan sinh dưỡng to, chống chịu tốt.",
+    "Thể tự đa bội là kết quả của phép lai xa và đa bội hóa."
+  ],
+  "answer": 2
+},
+{
+  "id": "DBDB_NST_15",
+  "type": "mcq",
+  "question": "Một loài thực vật có 4 cặp nhiễm sắc thể được kí hiệu là Aa, Bb, Dd và Ee.\nTrong các cơ thể có bộ nhiễm sắc thể sau đây, có bao nhiêu thể đa bội?\nI- AaaBbbDddEee.\nII- AaBbdEe.\nIII- AaBbDddEe.\nIV- AaBbDdEee.\nV- AaBbDde.\nVI- AaaBbDdEe.",
+  "choices": [
+    "3",
+    "4",
+    "1",
+    "2"
+  ],
+  "answer": 0
+},
+{
+  "id": "DBDB_NST_16",
+  "type": "mcq",
+  "question": "Một loài thực vật có 3 cặp nhiễm sắc thể được kí hiệu là Aa, Bb và Dd.\nTrong các cơ thể có bộ nhiễm sắc thể sau đây, có bao nhiêu thể đa bội?\nI-AAaaBBbbDDdd.\nII- AAaBBbDDd.\nIII- ABbDd\nIV- AaaBBbDDD.\nV- AaBbbDd\nVI- AAaBbDD.",
+  "choices": [
+    "3",
+    "4",
+    "1",
+    "2"
+  ],
+  "answer": 3
+},
+{
+  "id": "DBDB_NST_17",
+  "type": "mcq",
+  "question": "Khi nói về đột biến đa bội, phát biểu nào sau đây sai?",
+  "choices": [
+    "Thể đột biến đa bội bị cách li sinh sản với các dạng lưỡng bội sinh ra nó.",
+    "Thể tam bội có hàm lượng ADN ở trong nhân tế bào tăng lên gấp 3 lần so với dạng đơn bội.",
+    "Hầu hết các đột biến đa bội lẽ đều không có khả năng sinh sản hữu tính (bị bất thụ).",
+    "Trong tự nhiên, cả thực vật và động vật đều có thể đột biến tứ bội với tỉ lệ như nhau."
+  ],
+  "answer": 3
+},
+{
+  "id": "DBDB_NST_18",
+  "type": "mcq",
+  "question": "Khi nói về đột biến số lượng nhiễm sắc thể, phát biểu nào sau đây sai?",
+  "choices": [
+    "Đột biến số lượng NST sẽ làm thay đổi số lượng gen có trên mỗi NST.",
+    "Các đột biến dị bội và đa bội thường gặp ở thực vật hơn là ở động vật.",
+    "Các thể song nhị bội thường hữu thụ do tất cả NST đơn đều có NST tương đồng với nó.",
+    "Đột biến lệch bội không làm thay đổi cấu trúc của các nhóm gen liên kết."
+  ],
+  "answer": 0
+},
+{
+  "id": "DBDB_NST_19",
+  "type": "mcq",
+  "question": "Trong lai tế bào, nuôi cấy 2 dòng tế bào khác loài trong 1 môi trường dinh dưỡng,\nchúng có thể kết hợp lại với nhau thành tế bào lại chứa bộ gen của 2 loài bố mẹ.\nTế bào lại phát triển thành cây lại thuộc thể đột biến nào?",
+  "choices": [
+    "sinh dưỡng.",
+    "đa bội.",
+    "tứ bội.",
+    "song nhị bội."
+  ],
+  "answer": 3
+},
+{
+  "id": "DBDB_NST_20",
+  "type": "mcq",
+  "question": "Ở nhóm loài dương xỉ và thực vật có hoa,\ndạng đột biến nào sau đây thường nhanh chóng làm phát sinh loài mới?.",
+  "choices": [
+    "Tứ bội.",
+    "Lệch bội.",
+    "Dị đa bội.",
+    "Đảo đoạn NST."
+  ],
+  "answer": 2
+},
+{
+  "id": "DBDB_NST_21",
+  "type": "mcq",
+  "question": "Ở thể đột biến nào sau đây, số lượng NST có trong mỗi tế bào sinh dưỡng là một số chẵn?",
+  "choices": [
+    "Thể tam bội.",
+    "Lệch bội dạng thể một.",
+    "Thể song nhị bội.",
+    "Lệch bội dạng thể ba."
+  ],
+  "answer": 2
+},
+{
+  "id": "DBDB_NST_22",
+  "type": "mcq",
+  "question": "Cơ thể sinh vật có bộ NST gồm 2 bộ NST lưỡng bội của 2 loài khác nhau được gọi là",
+  "choices": [
+    "thể dị đa bội.",
+    "thể tam bội.",
+    "thể ba.",
+    "thể một."
+  ],
+  "answer": 0
+},
+{
+  "id": "TF_NST_01",
+  "type": "tf",
+  "question": "Khi nói về NST ở sinh vật nhân thực, phát biểu nào đúng, phát biểu nào sai?\na… Bộ NST của loài đặc trưng về hình dạng, số lượng, kích thước và cấu trúc.\nb… Số lượng NST của các loài không phản ánh mức độ tiến hóa cao hay thấp.\nc… NST được cấu tạo từ chất nhiễm sắc bao gồm chủ yếu là DNA và protein histone.\nd… Trong các tế bào NST luôn tồn tại thành từng cặp tương đồng (gọi là bộ NST lưỡng bội 2n).",
+  "statements": [
+    { "text": "Bộ NST của loài đặc trưng về hình dạng, số lượng, kích thước và cấu trúc.", "answer": true },
+    { "text": "Số lượng NST của các loài không phản ánh mức độ tiến hóa cao hay thấp.", "answer": true },
+    { "text": "NST được cấu tạo từ chất nhiễm sắc bao gồm chủ yếu là DNA và protein histone.", "answer": true },
+    { "text": "Trong các tế bào NST luôn tồn tại thành từng cặp tương đồng (gọi là bộ NST lưỡng bội 2n).", "answer": false }
+  ]
+},
+{
+  "id": "TF_NST_02",
+  "type": "tf",
+  "question": "Khi nói về đặc điểm của nhiễm sắc thể giới tính, phát biểu nào đúng, phát biểu nào sai?\na… Một số trường hợp con đực hoặc cái chỉ có một NST giới tính.\nb… Hầu hết sinh vật có một cặp NST giới tính và khác nhau ở hai giới.\nc… Con đực mang cặp NST giới tính XY, con cái mang cặp NST giới tính XX.\nd… Trên cặp NST giới tính chứa các gene quy định giới tính và các gene quy định các tính trạng thường.",
+  "statements": [
+    { "text": "Một số trường hợp con đực hoặc cái chỉ có một NST giới tính.", "answer": true },
+    { "text": "Hầu hết sinh vật có một cặp NST giới tính và khác nhau ở hai giới.", "answer": true },
+    { "text": "Con đực mang cặp NST giới tính XY, con cái mang cặp NST giới tính XX.", "answer": false },
+    { "text": "Trên cặp NST giới tính chứa các gene quy định giới tính và các gene quy định các tính trạng thường.", "answer": true }
+  ]
+},
+{
+  "id": "TF_NST_03",
+  "type": "tf",
+  "question": "Khi nói về NST ở sinh vật nhân chuẩn, mỗi mệnh đề sau là đúng hay sai?\na… Trong tế bào soma của cơ thể lưỡng bội, NST tồn tại thành từng cặp nên được gọi là bộ 2n.\nb… Số lượng NST nhiều hay ít là tiêu chí quan trọng phản ánh mức độ tiến hoá của loài.\nc… NST được cấu tạo bởi 2 thành phần chính là: Protein histone và DNA.\nd… Mỗi loài có một bộ NST đặc trưng về số lượng, hình thái và cấu trúc.",
+  "statements": [
+    { "text": "Trong tế bào soma của cơ thể lưỡng bội, NST tồn tại thành từng cặp nên được gọi là bộ 2n.", "answer": true },
+    { "text": "Số lượng NST nhiều hay ít là tiêu chí quan trọng phản ánh mức độ tiến hoá của loài.", "answer": false },
+    { "text": "NST được cấu tạo bởi 2 thành phần chính là: Protein histone và DNA.", "answer": true },
+    { "text": "Mỗi loài có một bộ NST đặc trưng về số lượng, hình thái và cấu trúc.", "answer": true }
+  ]
+},
+{
+  "id": "TF_DBCT_01",
+  "type": "tf",
+  "question": "Mỗi nhận định sau là đúng hay sai khi nói về đột biến đảo đoạn?\na… Đột biến đảo đoạn có thể làm cho một gene nào đó đang hoạt động trở nên không hoạt động.\nb… Đột biến đảo đoạn có thể làm thay đổi chiều dài của phân tử DNA.\nc… Đột biến đảo đoạn có thể xảy ra ở cả thực vật và cả động vật.\nd… Đột biến đảo đoạn có thể sẽ dẫn tới làm phát sinh loài mới.",
+  "statements": [
+    { "text": "Đột biến đảo đoạn có thể làm cho một gene nào đó đang hoạt động trở nên không hoạt động.", "answer": true },
+    { "text": "Đột biến đảo đoạn có thể làm thay đổi chiều dài của phân tử DNA.", "answer": false },
+    { "text": "Đột biến đảo đoạn có thể xảy ra ở cả thực vật và cả động vật.", "answer": true },
+    { "text": "Đột biến đảo đoạn có thể sẽ dẫn tới làm phát sinh loài mới.", "answer": false }
+  ]
+},
+{
+  "id": "TF_DBCT_02",
+  "type": "tf",
+  "question": "Mỗi nhận định sau là đúng hay sai khi nói về đột biến lặp đoạn nhiễm sắc thể?\na… Đột biến lặp đoạn có thể có hại cho thể đột biến.\nb… Đột biến lặp đoạn làm tăng chiều dài của nhiễm sắc thể.\nc… Đột biến lặp đoạn luôn làm tăng khả năng sinh sản của thể đột biến.\nd… Đột biến lặp đoạn dẫn đến lặp gene, tạo điều kiện cho đột biến gene.",
+  "statements": [
+    { "text": "Đột biến lặp đoạn có thể có hại cho thể đột biến.", "answer": true },
+    { "text": "Đột biến lặp đoạn làm tăng chiều dài của nhiễm sắc thể.", "answer": true },
+    { "text": "Đột biến lặp đoạn luôn làm tăng khả năng sinh sản của thể đột biến.", "answer": false },
+    { "text": "Đột biến lặp đoạn dẫn đến lặp gene, tạo điều kiện cho đột biến gene.", "answer": true }
+  ]
+},
+{
+  "id": "TF_DBCT_03",
+  "type": "tf",
+  "question": "Khi nói về đột biến cấu trúc nhiễm sắc thể, phát biểu nào đúng, phát biểu nào sai?\na… Đột biến cấu trúc nhiễm sắc thể chỉ xảy ra ở nhiễm sắc thể thường mà không xảy ra ở nhiễm sắc thể giới tính.\nb… Đột biến chuyển đoạn có thể không làm thay đổi số lượng và thành phần gene của một nhiễm sắc thể.\nc… Đột biến đảo đoạn làm cho gene từ nhóm liên kết này chuyển sang nhóm liên kết khác.\nd… Đột biến mất đoạn không làm thay đổi số lượng gene trên nhiễm sắc thể.",
+  "statements": [
+    { "text": "Đột biến cấu trúc nhiễm sắc thể chỉ xảy ra ở nhiễm sắc thể thường mà không xảy ra ở nhiễm sắc thể giới tính.", "answer": false },
+    { "text": "Đột biến chuyển đoạn có thể không làm thay đổi số lượng và thành phần gene của một nhiễm sắc thể.", "answer": true },
+    { "text": "Đột biến đảo đoạn làm cho gene từ nhóm liên kết này chuyển sang nhóm liên kết khác.", "answer": false },
+    { "text": "Đột biến mất đoạn không làm thay đổi số lượng gene trên nhiễm sắc thể.", "answer": false }
+  ]
+},
+{
+  "id": "TF_DBLB_01",
+  "type": "tf",
+  "question": "Mỗi nhận định sau là đúng hay sai khi nói về hậu quả của đột biến lệch bội?\na… Hầu hết các đột biến lệch bội đều gây hại cho thể đột biến nên không trở thành nguyên liệu của tiến hóa.\nb… Tất cả các đột biến thể một đều có biểu hiện kiểu hình giống nhau.\nc… Các đột biến lệch bội ở động vật thường có tỉ lệ sống sót cao hơn so với các đột biến lệch bội ở thực vật.\nd… Lệch bội ở các cặp NST khác nhau biểu hiện kiểu hình khác nhau.",
+  "statements": [
+    { "text": "Hầu hết các đột biến lệch bội đều gây hại cho thể đột biến nên không trở thành nguyên liệu của tiến hóa.", "answer": true },
+    { "text": "Tất cả các đột biến thể một đều có biểu hiện kiểu hình giống nhau.", "answer": false },
+    { "text": "Các đột biến lệch bội ở động vật thường có tỉ lệ sống sót cao hơn so với các đột biến lệch bội ở thực vật.", "answer": false },
+    { "text": "Lệch bội ở các cặp NST khác nhau biểu hiện kiểu hình khác nhau.", "answer": true }
+  ]
+},
+{
+  "id": "TF_DBLB_02",
+  "type": "tf",
+  "question": "Mỗi nhận định sau là đúng hay sai khi nói về đột biến lệch bội?\na… Đột biến lệch bội có thể phát sinh trong nguyên phân hoặc trong giảm phân.\nb… Đột biến lệch bội làm thay đổi số lượng ở một cặp hoặc một số cặp nhiễm sắc thể.\nc… Đột biến lệch bội chỉ xảy ra ở nhiễm sắc thể thường, không xảy ra ở nhiễm sắc thể giới tính.\nd… Đột biến lệch bội xảy ra do rối loạn phân bào làm cho một hoặc một số cặp nhiễm sắc thể không thể phân li.",
+  "statements": [
+    { "text": "Đột biến lệch bội có thể phát sinh trong nguyên phân hoặc trong giảm phân.", "answer": true },
+    { "text": "Đột biến lệch bội làm thay đổi số lượng ở một cặp hoặc một số cặp nhiễm sắc thể.", "answer": true },
+    { "text": "Đột biến lệch bội chỉ xảy ra ở nhiễm sắc thể thường, không xảy ra ở nhiễm sắc thể giới tính.", "answer": false },
+    { "text": "Đột biến lệch bội xảy ra do rối loạn phân bào làm cho một hoặc một số cặp nhiễm sắc thể không thể phân li.", "answer": true }
+  ]
+},
+{
+  "id": "TF_DBDB_01",
+  "type": "tf",
+  "question": "Mỗi nhận định sau là đúng hay sai khi nói về lí do làm cho thể đa bội ít gặp ở động vật?\na… Cơ chế xác định giới tính bị rối loạn ảnh hưởng đến qúa trình sinh sản.\nb… Đa số các động vật không có khả năng sinh sản sinh dưỡng.\nc… Trong thiên nhiên động vật ít khi bị đột biến hơn so với thực vật.\nd… Động vật không tạo được giao tử có khả năng sống và thụ tinh.",
+  "statements": [
+    { "text": "Cơ chế xác định giới tính bị rối loạn ảnh hưởng đến qúa trình sinh sản.", "answer": true },
+    { "text": "Đa số các động vật không có khả năng sinh sản sinh dưỡng.", "answer": true },
+    { "text": "Trong thiên nhiên động vật ít khi bị đột biến hơn so với thực vật.", "answer": false },
+    { "text": "Động vật không tạo được giao tử có khả năng sống và thụ tinh.", "answer": true }
+  ]
+},
+{
+  "id": "TF_DBDB_02",
+  "type": "tf",
+  "question": "Khi nói về thể tự đa bội thì phát biểu nào đúng, phát biểu nào sai?\na… Thể tự đa bội vẫn sinh sản hữu tính bình thường.\nb… Thể tự đa bội thường có các cơ quan sinh dưỡng to, chống chịu tốt.\nc… Thể tự đa bội là kết quả của phép lai xa và đa bội hóa.\nd… Giao tử của thể tự đa bội chứa bộ NST lưỡng bội (2n).",
+  "statements": [
+    { "text": "Thể tự đa bội vẫn sinh sản hữu tính bình thường.", "answer": false },
+    { "text": "Thể tự đa bội thường có các cơ quan sinh dưỡng to, chống chịu tốt.", "answer": true },
+    { "text": "Thể tự đa bội là kết quả của phép lai xa và đa bội hóa.", "answer": false },
+    { "text": "Giao tử của thể tự đa bội chứa bộ NST lưỡng bội (2n).", "answer": false }
+  ]
+},
+{
+  "id": "TF_DBDB_03",
+  "type": "tf",
+  "question": "Mỗi nhận định sau là đúng hay sai khi nói về đột biến đa bội?\na… Đột biến dạng tứ bội vẫn có khả năng sinh sản hữu tính.\nb… Trong tế bào sinh dưỡng thể tứ bội, NST tồn tại thành từng nhóm bốn chiếc.\nc… Để gây đột biến đa bội có hiệu quả, thường người ta xử lí tác nhân đột biến vào pha G2 của quá trình phân bào.\nd… Lai xa kèm đa bội hóa có thể tạo ra cơ thể lai dạng dị đa bội.",
+  "statements": [
+    { "text": "Đột biến dạng tứ bội vẫn có khả năng sinh sản hữu tính.", "answer": true },
+    { "text": "Trong tế bào sinh dưỡng thể tứ bội, NST tồn tại thành từng nhóm bốn chiếc.", "answer": true },
+    { "text": "Để gây đột biến đa bội có hiệu quả, thường người ta xử lí tác nhân đột biến vào pha G2 của quá trình phân bào.", "answer": false },
+    { "text": "Lai xa kèm đa bội hóa có thể tạo ra cơ thể lai dạng dị đa bội.", "answer": true }
+  ]
+},
+{
+  "id": "TF_DBDB_04",
+  "type": "tf",
+  "question": "Khi nói về thể tứ bội và thể song nhị bội thì phát biểu nào đúng, phát biểu nào sai?\na… Thể tứ bội là kết quả của các tác nhân đột biến nhân tạo còn thể song nhị bội là kết quả của lai xa tự nhiên.\nb… Thể tứ bội có khả năng hữu thụ thể song nhị bội thường bất thụ.\nc… Thể tứ bội là một đột biến đa bội, thể song nhị bội là đột biến lệch bội.\nd… Thể tứ bội có bộ NST là bội số của bộ NST đơn bội và lớn hơn 2n, thể song nhị bội gồm 2 bộ NST lưỡng bội khác nhau.",
+  "statements": [
+    { "text": "Thể tứ bội là kết quả của các tác nhân đột biến nhân tạo còn thể song nhị bội là kết quả của lai xa tự nhiên.", "answer": false },
+    { "text": "Thể tứ bội có khả năng hữu thụ thể song nhị bội thường bất thụ.", "answer": true },
+    { "text": "Thể tứ bội là một đột biến đa bội, thể song nhị bội là đột biến lệch bội.", "answer": false },
+    { "text": "Thể tứ bội có bộ NST là bội số của bộ NST đơn bội và lớn hơn 2n, thể song nhị bội gồm 2 bộ NST lưỡng bội khác nhau.", "answer": true }
+  ]
+},
+{
+  "id": "DTGNN_B9_01",
+  "type": "tf",
+  "question": "Phát biểu sau nói về sự di truyền ngoài nhân.\nCho biết các phát biểu bên dưới là đúng hay sai?\na.   Sự di truyền của các gene ngoài nhân không tuân theo các quy luật di truyền nhiễm sắc thể.\nb.  Gene ngoài nhân luôn phân chia đồng đều cho các tế bào con trong phân bào.\nc.   Nếu bố mẹ có kiểu hình khác nhau thì kết quả của phép lai thuận và nghịch khác nhau.\nd.  Tính trạng do gene ngoài nhân quy định phân bố không đều ở hai giới.",
+  "statements": [
+    { "text": "Sự di truyền của các gene ngoài nhân không tuân theo các quy luật di truyền nhiễm sắc thể.", "answer": true },
+    { "text": "Gene ngoài nhân luôn phân chia đồng đều cho các tế bào con trong phân bào.", "answer": false },
+    { "text": "Nếu bố mẹ có kiểu hình khác nhau thì kết quả của phép lai thuận và nghịch khác nhau.", "answer": true },
+    { "text": "Tính trạng do gene ngoài nhân quy định phân bố không đều ở hai giới.", "answer": false }
+  ]
+},
+{
+  "id": "DTGNN_B9_02",
+  "type": "tf",
+  "question": "Khi nói về di truyền gene ngoài nhân, các phát biểu dưới đây là đúng hay sai?\na.   Gene nằm trong tế bào chất có khả năng bị đột biến nhưng không thể biểu hiện thành kiểu hình.\nb.  Mọi di truyền tế bào chất đều là di truyền theo dòng mẹ.\nc.   Di truyền qua tế bào chất xảy ra ở nhiều đối tượng như ngựa đực giao phối với lừa cái tạo con la.\nd.  Ứng dụng hiện tượng bất thụ đực, người ta tạo ra hạt lai mà không cần tốn công hủy phấn hoa cây mẹ.",
+  "statements": [
+    { "text": "Gene nằm trong tế bào chất có khả năng bị đột biến nhưng không thể biểu hiện thành kiểu hình.", "answer": false },
+    { "text": "Mọi di truyền tế bào chất đều là di truyền theo dòng mẹ.", "answer": true },
+    { "text": "Di truyền qua tế bào chất xảy ra ở nhiều đối tượng như ngựa đực giao phối với lừa cái tạo con la.", "answer": false },
+    { "text": "Ứng dụng hiện tượng bất thụ đực, người ta tạo ra hạt lai mà không cần tốn công hủy phấn hoa cây mẹ.", "answer": true }
+  ]
+},
+{
+  "id": "DTGNN_B9_03",
+  "type": "tf",
+  "question": "Khi nói về di truyền gene ngoài nhân, các phát biểu dưới đây là đúng hay sai?\na.   Hiện tượng di truyền gene ngoài nhân được phát hiện bởi Correns.\nb.  Gene ngoài nhân được tìm thấy ở ti thể, lục lạp.\nc.   Phép lai đã giúp Correns phát hiện ra sự di truyền gene ngoài nhân là lai cận huyết.\nd.  Tính trạng túm lông trên vành tai ở nam giới là di truyền gene ngoài nhân.",
+  "statements": [
+    { "text": "Hiện tượng di truyền gene ngoài nhân được phát hiện bởi Correns.", "answer": true },
+    { "text": "Gene ngoài nhân được tìm thấy ở ti thể, lục lạp.", "answer": true },
+    { "text": "Phép lai đã giúp Correns phát hiện ra sự di truyền gene ngoài nhân là lai cận huyết.", "answer": false },
+    { "text": "Tính trạng túm lông trên vành tai ở nam giới là di truyền gene ngoài nhân.", "answer": false }
+  ]
+},
+{
+  "id": "DTGNN_B9_04",
+  "type": "tf",
+  "question": "Khi nói về di truyền gene ngoài nhân, các phát biểu dưới đây là đúng hay sai?\na.   Mẹ bị bệnh động kinh thì toàn bộ con đều bị động kinh.\nb.  Mọi hiện tượng di truyền theo dòng mẹ đều là di truyền tế bào chất.\nc.   Gene nằm trong tế bào chất biểu hiện ra kiểu hình ở cả 2 giới.\nd.  Các tính trạng do gene ngoài nhân quy định không tuân theo các quy luật di truyền nhiễm sắc thể.",
+  "statements": [
+    { "text": "Mẹ bị bệnh động kinh thì toàn bộ con đều bị động kinh.", "answer": false },
+    { "text": "Mọi hiện tượng di truyền theo dòng mẹ đều là di truyền tế bào chất.", "answer": false },
+    { "text": "Gene nằm trong tế bào chất biểu hiện ra kiểu hình ở cả 2 giới.", "answer": true },
+    { "text": "Các tính trạng do gene ngoài nhân quy định không tuân theo các quy luật di truyền nhiễm sắc thể.", "answer": true }
+  ]
+},
+{
+  "id": "DTGNN_B9_05",
+  "type": "tf",
+  "question": "Khả năng kháng thuốc trừ sâu của một loài côn trùng do gene nằm trong ti thể quy định.\nCho con đực có khả năng kháng thuốc giao phối với con cái không có khả năng kháng thuốc,\nđời con xuất hiện 10% số con có khả năng kháng thuốc.\nKhẳng định dưới đây là đúng hay sai:\na.   Tính trạng kháng thuốc ở đời con chỉ xuất hiện ở các cơ thể cái.\nb.  Con cái không có khả năng kháng thuốc ở thế hệ bố mẹ chỉ mang 1 loại allele về tính trạng kháng thuốc.\nc.   Khả năng kháng thuốc ở hợp tử sẽ bị thay đổi khi bị thay bằng một nhân có cấu trúc di truyền khác.\nd.  Tính trạng không kháng thuốc là tính trạng lặn.",
+  "statements": [
+    { "text": "Tính trạng kháng thuốc ở đời con chỉ xuất hiện ở các cơ thể cái.", "answer": false },
+    { "text": "Con cái không có khả năng kháng thuốc ở thế hệ bố mẹ chỉ mang 1 loại allele về tính trạng kháng thuốc.", "answer": true },
+    { "text": "Khả năng kháng thuốc ở hợp tử sẽ bị thay đổi khi bị thay bằng một nhân có cấu trúc di truyền khác.", "answer": false },
+    { "text": "Tính trạng không kháng thuốc là tính trạng lặn.", "answer": true }
+  ]
+},
+{
+  "id": "MQHKGKHMT_B10_01",
+  "type": "mcq",
+  "question": "Mối quan hệ giữa kiểu gene, môi trường và kiểu hình là:",
+  "choices": [
+    "Kiểu gene quyết định hoàn toàn kiểu hình, không bị ảnh hưởng bởi môi trường.",
+    "Kiểu hình hoàn toàn do môi trường quy định, kiểu gene không có ảnh hưởng.",
+    "Kiểu hình là kết quả của sự tương tác giữa kiểu gene và môi trường.",
+    "Kiểu gene và môi trường không có ảnh hưởng lẫn nhau trong việc hình thành kiểu hình."
+  ],
+  "answer": 2
+},
+{
+  "id": "MQHKGKHMT_B10_02",
+  "type": "tf",
+  "question": "Khi nói về mức phản ứng của sinh vật có các nhận định sau:\na.   Mức phản ứng của sinh vật do kiểu gene quy định.\nb.   Những gene quy định tính trạng chất lượng thường có mức phản ứng hẹp, hay sự biểu hiện gene ít chịu ảnh của điều kiện môi trường.\nc.    Những gene quy định tính trạng số lượng thường có mức phản ứng hẹp, sự biểu hiện gene ít chịu ảnh hưởng của điều kiện môi trường.\nd.   Những gene quy định tính trạng số lượng thường có mức phản ứng rộng, sự biểu hiện gene chịu ảnh hưởng của điều kiện môi trường.",
+  "statements": [
+    { "text": "Mức phản ứng của sinh vật do kiểu gene quy định.", "answer": true },
+    { "text": "Những gene quy định tính trạng chất lượng thường có mức phản ứng hẹp, hay sự biểu hiện gene ít chịu ảnh của điều kiện môi trường.", "answer": true },
+    { "text": "Những gene quy định tính trạng số lượng thường có mức phản ứng hẹp, sự biểu hiện gene ít chịu ảnh hưởng của điều kiện môi trường.", "answer": false },
+    { "text": "Những gene quy định tính trạng số lượng thường có mức phản ứng rộng, sự biểu hiện gene chịu ảnh hưởng của điều kiện môi trường.", "answer": true }
+  ]
+},
+{
+  "id": "MQHKGKHMT_B10_03",
+  "type": "tf",
+  "question": "Khi phát biểu về mối quan hệ giữa kiểu gene- kiểu hình – môi trường có một số nhận định sau:\na.   Kiểu hình của một sinh vật được hình thành do sự tương tác giữa kiểu gene và môi trường.\nb.  Kiểu hình của một sinh vật luôn luôn là sự thể hiện chính xác của kiểu gene.\nc.   Kiểu gene là yếu tố duy nhất quyết định sự hình thành kiểu hình của sinh vật.\nd.  Sự tương tác giữa kiểu gene và môi trường không có tác động lên sự phát triển của sinh vật.",
+  "statements": [
+    { "text": "Kiểu hình của một sinh vật được hình thành do sự tương tác giữa kiểu gene và môi trường.", "answer": true },
+    { "text": "Kiểu hình của một sinh vật luôn luôn là sự thể hiện chính xác của kiểu gene.", "answer": false },
+    { "text": "Kiểu gene là yếu tố duy nhất quyết định sự hình thành kiểu hình của sinh vật.", "answer": false },
+    { "text": "Sự tương tác giữa kiểu gene và môi trường không có tác động lên sự phát triển của sinh vật.", "answer": false }
+  ]
+},
+{
+  "id": "MQHKGKHMT_B10_04",
+  "type": "tf",
+  "question": "Các ví dụ về mức phản ứng rộng và mức phản ứng hẹp của sinh vật:\na.   Mức phản ứng hẹp như tỉ lệ bơ trong sữa bò, hàm lượng vitamin C trong quả bưởi\nb.  Mức phản ứng rộng như sản lượng đậu nành trong một vụ, sản lượng cá trong một năm; sản lượng trứng gà mỗi ngày.\nc.   Mức phản ứng hẹp: hàm lượng Saponin có trong nhân sâm; tỉ lệ caffeine có trong trà; hàm lượng Calci có trong trứng gà; đặc tính thon dài, trắng trong, không bị bạc bụng hạt của gạo ST25.\nd.  Mức phản ứng rộng như sản lượng sữa bò thu được trong một ngày, năng suất lúa trong một vụ, hàm lượng vitamin C trong quả bưởi.",
+  "statements": [
+    { "text": "Mức phản ứng hẹp như tỉ lệ bơ trong sữa bò, hàm lượng vitamin C trong quả bưởi", "answer": true },
+    { "text": "Mức phản ứng rộng như sản lượng đậu nành trong một vụ , sản lượng cá trong một năm; sản lượng trứng gà mỗi ngày.", "answer": true },
+    { "text": "Mức phản ứng hẹp: hàm lượng Saponin có trong nhân sâm; tỉ lệ caffeine có trong trà; hàm lượng Calci có trong trứng gà; đặc tính thon dài, trắng trong, không bị bạc bụng hạt của gạo ST25.", "answer": true },
+    { "text": "Mức phản ứng rộng như sản lượng sữa bò thu được trong một ngày, năng suất lúa trong một vụ, hàm lượng vitamin C trong quả bưởi.", "answer": false }
+  ]
+},
+{
+  "id": "MQHKGKHMT_B10_05",
+  "type": "tf",
+  "question": "Ứng dụng kiến thức về mối quan hệ giữa kiểu gene- kiểu hình – môi trường có một số nhận định sau:\na.                  Nếu một loài cây được trồng ở những điều kiện ánh sáng khác nhau, kiểu hình của cây có thể thay đổi.\nb.                 Một người có kiểu gene thuận lợi cho sự phát triển cơ bắp, nhưng lại sống trong môi trường không có điều kiện tập luyện tốt vẫn phát triển cơ bắp tối đa.\nc.                 Một con thú có kiểu gene tạo ra lông màu xám nhưng sống trong môi trường có ánh sáng yếu sẽ có lông màu sáng hơn.\nd.                 Khi nghiên cứu di truyền của một loài, các nhà khoa học không cần phải kiểm soát môi trường để xác định ảnh hưởng chính của kiểu gene lên kiểu hình.",
+  "statements": [
+    { "text": "Nếu một loài cây được trồng ở những điều kiện ánh sáng khác nhau, kiểu hình của cây có thể thay đổi.", "answer": true },
+    { "text": "Một người có kiểu gene thuận lợi cho sự phát triển cơ bắp, nhưng lại sống trong môi trường không có điều kiện tập luyện tốt vẫn phát triển cơ bắp tối đa.", "answer": false },
+    { "text": "Một con thú có kiểu gene tạo ra lông màu xám nhưng sống trong môi trường có ánh sáng yếu sẽ có lông màu sáng hơn.", "answer": true },
+    { "text": "Khi nghiên cứu di truyền của một loài, các nhà khoa học không cần phải kiểm soát môi trường để xác định ảnh hưởng chính của kiểu gene lên kiểu hình.", "answer": false }
+  ]
+},
+{
+  "id": "MQHKGKHMT_B10_06",
+  "type": "tf",
+  "question": "Ứng dụng thực tiễn về mối quan hệ giữa kiểu gene- kiểu hình – môi trường có một số nhận định sau:\na.                  Một chương trình chọn giống gia súc dựa trên kiểu gene sẽ không đạt hiệu quả cao nếu không xem xét điều kiện chăn nuôi và môi trường sống.\nb.                 Trong nghiên cứu sự phát triển của các bệnh di truyền, các nhà khoa học cần phải điều chỉnh môi trường để đánh giá đúng sự ảnh hưởng của kiểu gene.\nc.                 Một cá thể có kiểu gene xác định khả năng chống chịu bệnh tốt hơn nhưng lại sống trong môi trường có nhiều tác nhân gây bệnh. Cá thể này chắc chắn không mắc bệnh.\nd.                 Một sinh viên nghiên cứu ảnh hưởng của chế độ ăn uống đến sự phát triển thể chất của động vật thí nghiệm. Kết quả cho thấy sự thay đổi về trọng lượng cơ thể.",
+  "statements": [
+    { "text": "Một chương trình chọn giống gia súc dựa trên kiểu gene sẽ không đạt hiệu quả cao nếu không xem xét điều kiện chăn nuôi và môi trường sống.", "answer": true },
+    { "text": "Trong nghiên cứu sự phát triển của các bệnh di truyền, các nhà khoa học cần phải điều chỉnh môi trường để đánh giá đúng sự ảnh hưởng của kiểu gene.", "answer": true },
+    { "text": "Một cá thể có kiểu gene xác định khả năng chống chịu bệnh tốt hơn nhưng lại sống trong môi trường có nhiều tác nhân gây bệnh. Cá thể này chắc chắn không mắc bệnh.", "answer": false },
+    { "text": "Một sinh viên nghiên cứu ảnh hưởng của chế độ ăn uống đến sự phát triển thể chất của động vật thí nghiệm. Kết quả cho thấy sự thay đổi về trọng lượng cơ thể.", "answer": true }
+  ]
+},
+{
+  "id": "DTQT_MCQ_01",
+  "type": "mcq",
+  "question": "Di truyền học quần thể là một lĩnh vực của di truyền học, nghiên cứu về",
+  "choices": [
+    "thay đổi tần số allele ở mỗi gene đối với một tính trạng cụ thể trong quần thể qua một thế hệ.",
+    "thay đổi tần số kiểu hình ở mỗi gene đối với một tính trạng cụ thể trong quần thể qua một thế hệ.",
+    "thay đổi tần số kiểu gene ở mỗi gene đối với một tính trạng cụ thể trong quần thể qua một thế hệ.",
+    "thay đổi tần số allele và tần số kiểu gene đối với một tính trạng cụ thể trong quần thể qua các thế hệ."
+  ],
+  "answer": 3
+},
+{
+  "id": "DTQT_MCQ_02",
+  "type": "mcq",
+  "question": "Tất cả các allele trong quần thể tạo nên",
+  "choices": [
+    "vốn gene của quần thể",
+    "kiểu gene của quần thể",
+    "kiểu hình của quần thể",
+    "tính đặc trưng của vật chất di truyền của loài"
+  ],
+  "answer": 0
+},
+{
+  "id": "DTQT_MCQ_03",
+  "type": "mcq",
+  "question": "Nguyên nhân nào có thể làm cho vốn gene của quần thể giao phối được phong phú thêm?",
+  "choices": [
+    "Các cá thể nhập cư mang đến quần thể những allele mới.",
+    "Chọn lọc tự nhiên đào thải những kiểu hình có hại ra khỏi quần thể.",
+    "Thiên tai làm giảm kích thước của quần thể một cách đáng kể.",
+    "Sự giao phối của các cá thể có cùng huyết thống hoặc giao phối có chọn lọc."
+  ],
+  "answer": 0
+},
+{
+  "id": "DTQT_MCQ_04",
+  "type": "mcq",
+  "question": "Về mặt di truyền học, mỗi quần thể giao phối được đặc trưng bởi?",
+  "choices": [
+    "Số lượng nhiễm sắc thể của các cá thể trong quần thể.",
+    "Tần số tương đối các allele và tần số kiểu gene của quần thể.",
+    "Số lượng các cá thể có kiểu gene dị hợp của quần thể.",
+    "Số lượng các cá thể có kiểu gene đồng hợp trội của quần thể."
+  ],
+  "answer": 1
+},
+{
+  "id": "DTQT_MCQ_05",
+  "type": "mcq",
+  "question": "Quần thể nào sau đây có cấu trúc di truyền đạt trạng thái cân bằng?",
+  "choices": [
+    "0,09 AA: 0,41 Aa: 0,50 aa.",
+    "0,09 AA: 0,49 Aa: 0,42 aa.",
+    "0,49 AA: 0,42 Aa: 0,09 aa.",
+    "0,49 AA: 0,09 Aa: 0,42 aa."
+  ],
+  "answer": 2
+},
+{
+  "id": "DTQT_MCQ_06",
+  "type": "mcq",
+  "question": "Một quần thể người có tính trạng nhóm máu đang ở trạng thái cân bằng di truyền,\ntần số các loại allele quy định nhóm máu là: IA, IB, IO lần lượt là 0,4; 0,3; 0,3.\nTheo lí thuyết, tỉ lệ người có kiểu gene đồng hợp về tính trạng nhóm máu là",
+  "choices": [
+    "0,64.",
+    "0,26.",
+    "0,16.",
+    "0,34."
+  ],
+  "answer": 2
+},
+{
+  "id": "DTQT_MCQ_07",
+  "type": "mcq",
+  "question": "Ở thực vật, hiện tượng hạt phấn từ nhị tiếp xúc với đầu nhuỵ và quá trình thụ tinh diễn ra trên cùng một hoa gọi là",
+  "choices": [
+    "giao phối có chọn lọc.",
+    "giao phối không chọn lọc.",
+    "giao phấn ngẫu nghiên.",
+    "tự thụ phấn."
+  ],
+  "answer": 3
+},
+{
+  "id": "DTQT_MCQ_08",
+  "type": "mcq",
+  "question": "Ở động vật, hiện tượng các cá thể có quan hệ huyết thống giao phối với nhau\n(giữa thế hệ bố mẹ với thế hệ con cái hoặc giữa các cá thể do cùng bố mẹ sinh ra) gọi là",
+  "choices": [
+    "giao phối gần.",
+    "tự phối.",
+    "giao phấn cận huyết.",
+    "A và C đúng."
+  ],
+  "answer": 3
+},
+{
+  "id": "DTQT_MCQ_09",
+  "type": "mcq",
+  "question": "Ở một loài thực vật, kiểu gene AA quy định hoa đỏ, Aa quy định hoa hồng, aa quy định hoa trắng.\nQuần thể nào sau đây đạt trạng thái cân bằng di truyền?",
+  "choices": [
+    "100% cây hoa hồng.",
+    "50% cây hoa đỏ ; 50% cây hoa trắng.",
+    "75% cây hoa đỏ ; 25% cây hoa trắng.",
+    "16% cây hoa đỏ ; 48% cây hoa hồng ; 36% cây hoa trắng."
+  ],
+  "answer": 3
+},
+{
+  "id": "DTQT_MCQ_10",
+  "type": "mcq",
+  "question": "Tập hợp sinh vật nào dưới đây được xem là một quần thể giao phối?",
+  "choices": [
+    "Những con Voọc mông trắng Cúc Phương (Ninh Bình).",
+    "Những con gà trống và gà mái nhốt ở một góc chợ.",
+    "Những con ong thợ lấy mật ở một vườn hoa.",
+    "Những con cá sống trong cùng một cái hồ."
+  ],
+  "answer": 3
+},
+{
+  "id": "DTQT_MCQ_11",
+  "type": "mcq",
+  "question": "Ở một loài thực vật, allele B1 quy định quả đỏ là trội hoàn toàn so với allele B2 quy định quả vàng.\nTần số allele B1 và B2 được biểu diễn qua biểu đồ bên, biết các quần thể được biểu diễn trong biểu đồ đã cân bằng di truyền.\nHãy sắp xếp các quần thể này theo thứ tự tăng dần tần số kiểu gene thể dị hợp?",
+  "choices": [
+    "1 → 2 → 3 → 4.",
+    "3 → 2 → 1 → 4.",
+    "2 → 3 → 1 → 4.",
+    "4 → 1 → 3 → 2."
+  ],
+  "answer": 0
+},
+{
+  "id": "DTQT_MCQ_12",
+  "type": "mcq",
+  "question": "Tập hợp sinh vật nào dưới đây không được xem là một quần thể giao phối?",
+  "choices": [
+    "Một đàn bò rừng ở Vườn quốc gia Cát Tiên.",
+    "Đàn cò trắng tại Vườn quốc gia Tràm Chim thuộc tỉnh Đồng Tháp.",
+    "Những cây bạch đàn chanh (Eucalyptus citriodora) trồng tập trung thành rừng ở tỉnh Phú Thọ.",
+    "Những con gà được người bán mang đến phiên chợ."
+  ],
+  "answer": 3
+},
+{
+  "id": "DTQT_MCQ_13",
+  "type": "mcq",
+  "question": "Trong một khu rừng nhiệt đới, một loài chim có chiều dài đuôi quy định bởi 2 allele,\nA đuôi dài là trội không hoàn toàn so với a đuôi ngắn, kiểu gene Aa quy định đuôi dài trung bình.\nTrong một quần thể gồm 2000 con chim, 614 con có đuôi dài, 973 con có đuôi trung bình và 413 con có đuôi ngắn.\nTỉ lệ kiểu gene những con chim có đuôi dài trung bình là bao nhiêu giả sử quần thể đang ở trạng thái cân bằng Hardy – Weinberg?",
+  "choices": [
+    "0,64.",
+    "0,26.",
+    "0,459.",
+    "0,495."
+  ],
+  "answer": 2
+},
+{
+  "id": "DTQT_MCQ_14",
+  "type": "mcq",
+  "question": "Ở hoa hướng dương hoang dại, số màu hoa được quy định bởi hai allele A và a trội không hoàn toàn.\nCây có kiểu gene đồng hợp AA cho hoa màu đỏ, cây có kiểu gene aa cho hoa màu trắng, cây có kiểu gene dị hợp Aa cho hoa màu hồng.\nQuần thể có 500 cây có hoa màu đỏ, 200 cây có hoa màu hồng, 300 cây có hoa màu trắng.\nTheo lí thuyết, tần số kiểu gene của quần thể là",
+  "choices": [
+    "0,2AA: 0,3Aa: 0,5aa.",
+    "0,3AA: 0,2Aa: 0,5aa.",
+    "0,5AA: 0,2Aa: 0,3aa.",
+    "0,4AA: 0,2Aa: 0,2aa."
+  ],
+  "answer": 0
+},
+{
+  "id": "DTQT_MCQ_15",
+  "type": "mcq",
+  "question": "Ở hoa hướng dương hoang dại, số màu hoa được quy định bởi hai allele A và a trội không hoàn toàn.\nCây có kiểu gene đồng hợp AA cho hoa màu đỏ, cây có kiểu gene aa cho hoa màu trắng, cây có kiểu gene dị hợp Aa cho hoa màu hồng.\nQuần thể có 500 cây có hoa màu đỏ, 200 cây có hoa màu hồng, 300 cây có hoa màu trắng.\nTheo lí thuyết, tần số allele của quần thể là",
+  "choices": [
+    "A=0,7: a=0,3.",
+    "A=0,3: a=0,7.",
+    "A=0,6: a=0,4.",
+    "A=0,5: a=0,5."
+  ],
+  "answer": 2
+},
+{
+  "id": "DTQT_MCQ_16",
+  "type": "mcq",
+  "question": "Tần số allele của một gene được tính bằng",
+  "choices": [
+    "tỉ lệ giữa số lượng allele đó trên tổng số các loại allele khác nhau của cùng một gene.",
+    "tỉ lệ giữa số lượng allele đó trên tổng số các loại allele khác nhau của các gene khác nhau.",
+    "tỉ lệ giữa số lượng allele đó trên tổng số các loại allele khác nhau của hai gene khác nhau.",
+    "Tổng số lượng allele đó trên tổng số các loại allele khác nhau của cùng một gene."
+  ],
+  "answer": 0
+},
+{
+  "id": "DTQT_MCQ_17",
+  "type": "mcq",
+  "question": "Tần số kiểu gene của quần thể là",
+  "choices": [
+    "tỉ lệ cá thể có kiểu gene đó trên tổng số cá thể trong quần thể.",
+    "tổng số cá thể có kiểu gene đó trong quần thể.",
+    "tổng số cá thể có kiểu gene đó trên tổng số cá thể trong quần thể.",
+    "hiệu số cá thể có kiểu gene đó trong quần thể."
+  ],
+  "answer": 0
+},
+{
+  "id": "DTQT_MCQ_18",
+  "type": "mcq",
+  "question": "Một quần thể ngẫu phối có cấu trúc di truyền gồm 0,3AA + 0,6Aa + 0,1aa.\nTổng tần số allele A và a của quần thể này là",
+  "choices": [
+    "1.",
+    "0,6.",
+    "0,4.",
+    "0,1."
+  ],
+  "answer": 0
+},
+{
+  "id": "DTQT_MCQ_19",
+  "type": "mcq",
+  "question": "Quần thể sinh vật có thành phần kiểu gene nào sau đây đang ở trạng thái cân bằng di truyền?",
+  "choices": [
+    "0,30AA: 0,40Aa: 0,30aa.",
+    "0,50AA: 0,40Aa: 0,10aa.",
+    "0,25AA: 0,50Aa: 0,25aa.",
+    "0,10AA: 0,40Aa: 0,50aa."
+  ],
+  "answer": 2
+},
+{
+  "id": "DTQT_MCQ_20",
+  "type": "mcq",
+  "question": "Một quần thể đang ở trạng thái cân bằng di truyền có tần số allele A = 0,6.\nTỉ lệ kiểu gene Aa là",
+  "choices": [
+    "0,48.",
+    "0,16.",
+    "0,32.",
+    "0,36."
+  ],
+  "answer": 0
+},
+{
+  "id": "DTQT_MCQ_21",
+  "type": "mcq",
+  "question": "Một quần thể có cấu trúc di truyền P: 0,3 AA + 0,4 Aa + 0,3 aa = 1.\nTỉ lệ kiểu gene Aa sau một thế hệ tự thụ là",
+  "choices": [
+    "0,2.",
+    "0,3.",
+    "0,1.",
+    "0,4."
+  ],
+  "answer": 0
+},
+{
+  "id": "DTQT_MCQ_22",
+  "type": "mcq",
+  "question": "Ở quần thể tự thụ phấn, yếu tố nào sau đây không thay đổi qua các thế hệ?",
+  "choices": [
+    "Tần số các allele.",
+    "Tần số kiểu hình.",
+    "Tần số kiểu gene.",
+    "Cấu trúc di truyền."
+  ],
+  "answer": 0
+},
+{
+  "id": "DTQT_MCQ_23",
+  "type": "mcq",
+  "question": "Tự thụ phấn và giao phối gần làm",
+  "choices": [
+    "tăng tần số kiểu gene dị hợp tử về allele lặn gây hại, tăng sức sống, tăng năng suất ở vật nuôi, cây trồng.",
+    "tăng tần số kiểu gene đồng hợp tử về allele trội gây hại, tăng sức sống, tăng năng suất ở vật nuôi, cây trồng.",
+    "giảm tần số kiểu gene đồng hợp tử về allele trội gây hại, tăng sức sống, tăng năng suất ở vật nuôi, cây trồng.",
+    "tăng tần số kiểu gene đồng hợp tử về allele lặn gây hại, gây giảm sửc sống, giảm năng suất ở vật nuôi, cây trồng."
+  ],
+  "answer": 3
+},
+{
+  "id": "DTQT_MCQ_24",
+  "type": "mcq",
+  "question": "Một trong những đặc điểm của quần thể tự thụ phấn là",
+  "choices": [
+    "tính đa dạng di truyền cao.",
+    "tỉ lệ kiểu gene dị hợp ngày càng tăng.",
+    "tính đa dạng di truyền thấp.",
+    "tần số kiểu gene không thay đổi qua các thế hệ."
+  ],
+  "answer": 2
+},
+{
+  "id": "DTQT_MCQ_25",
+  "type": "mcq",
+  "question": "Ở một quần thể thực vật, xét một gene có ba allele A1, A2, A3 nằm trên NST thường.\nTần số allele A1 = 0,4. Còn lại tần số allele A2 = A3.\nTheo lí thuyết, tần số allele A3 của quần thể này là.",
+  "choices": [
+    "0,3.",
+    "0,2.",
+    "0,4.",
+    "0,6."
+  ],
+  "answer": 1
+},
+{
+  "id": "DTQT_MCQ_26",
+  "type": "mcq",
+  "question": "Một quần thể thực vật tự thụ phấn có tỉ lệ kiểu gene ở thế hệ xuất phát (P): 0,45 AA: 0,30 Aa: 0,25 aa.\nCho biết cá thể có kiểu gene aa không có khả năng sinh sản.\nTheo lí thuyết, F1 có tỉ lệ kiểu gene là",
+  "choices": [
+    "0,36 AA: 0,24 Aa: 0,40 aa.",
+    "0,36 AA: 0,48 Aa: 0,16 aa.",
+    "0,7 AA: 0,2 Aa: 0,1 aa.",
+    "0,525 AA: 0,150 Aa: 0,325 aa."
+  ],
+  "answer": 3
+},
+{
+  "id": "DTQT_MCQ_27",
+  "type": "mcq",
+  "question": "Một quần thể thực vật ở thế hệ xuất phát đều có kiểu gene Aa.\nTheo lí thuyết, sau 5 thế hệ tự thụ phấn bắt buộc, tỉ lệ kiểu gene AA trong quần thể là",
+  "choices": [
+    "37,5000%.",
+    "48,4375%.",
+    "46,8750%",
+    "43,7500%."
+  ],
+  "answer": 1
+},
+{
+  "id": "DTQT_MCQ_28",
+  "type": "mcq",
+  "question": "Thế hệ xuất phát của một quần thể tự thụ phấn có tỉ lệ kiểu gene là 0,1AA:0,4Aa:0,5aa.\nTheo lí thuyết, ở thế hệ F3, loại kiểu gene aa chiếm tỉ lệ?",
+  "choices": [
+    "50%.",
+    "60%.",
+    "65%.",
+    "67,5%."
+  ],
+  "answer": 3
+},
+{
+  "id": "DTQT_MCQ_29",
+  "type": "mcq",
+  "question": "Một quần thể tự thụ phấn có thành phần kiểu gene ở thế hệ xuất phát gồm 0,7AA + 0,2Aa + 0,1aa = 1.\nTần số allele a của quần thể này là ở F2 là bao nhiêu?",
+  "choices": [
+    "0,7.",
+    "0,2.",
+    "0,8.",
+    "0,1."
+  ],
+  "answer": 2
+},
+{
+  "id": "DTQT_MCQ_30",
+  "type": "mcq",
+  "question": "Một quần thể thực vật ở thế hệ xuất phát (P) có thành phần kiểu gene 0,4AA: 0,4Aa: 0,2aa.\nNếu xảy ra tự thụ phấn thì theo lí thuyết, thành phần kiểu gene ở F2 là",
+  "choices": [
+    "0,36AA: 0,48Aa: 0,16aa.",
+    "0,575AA: 0,05Aa: 0,375aa.",
+    "0,55AA: 0,1Aa: 0,35aa.",
+    "0,5AA: 0,1Aa: 0,4aa."
+  ],
+  "answer": 1
+},
+{
+  "id": "DTQT_MCQ_31",
+  "type": "mcq",
+  "question": "Một quần thể thực vật tự thụ phấn ở thế hệ xuất phát (P) có thành phần kiểu gene là 0,1AA: 0,2Aa: 0,7aa.\nBiết không xảy ra hiện tượng đột biến.\nTần số allele A và allele a của quần thể này ở thế hệ F5 lần lượt là",
+  "choices": [
+    "0,5 và 0,5.",
+    "0,7 và 0,3.",
+    "0,4 và 0,6.",
+    "0,2 và 0,8."
+  ],
+  "answer": 3
+},
+{
+  "id": "DTQT_MCQ_32",
+  "type": "mcq",
+  "question": "Ở 1 quần thể cừu màu lông có 2 allele W:lông trắng trội hoàn toàn so với allele w: lông đen.\nTrong một trang trại gồm 900 con cừu, 891 con là cừu trắng và 9 con là cừu đen.\nGiả sử quần thể đang ở trạng thái cân bằng Hardy – Weinberg.\nTần số allele của quần thể là",
+  "choices": [
+    "W=0,7; w=0,3.",
+    "W=0,1; w=0,9.",
+    "W=0,9; w=0,1.",
+    "W=0,5; w=0,5."
+  ],
+  "answer": 2
+},
+{
+  "id": "DTQT_MCQ_33",
+  "type": "mcq",
+  "question": "Ở người allele T, cho khả năng nếm một loại hóa chất cụ thể, trội hoàn toàn so với allele t, cho khả năng không nếm được hóa chất đó.\nBốn trăm sinh viên đại học đã được khảo sát và phát hiện ra 64 người không nếm được hóa chất.\nTính tỷ lệ phần trăm sinh viên dị hợp tử.\nGiả sử rằng quần thể đang ở trạng thái cân bằng Hardy – Weinberg?",
+  "choices": [
+    "0,42.",
+    "0,36.",
+    "0,48.",
+    "0,16."
+  ],
+  "answer": 2
+},
+{
+  "id": "DTQT_MCQ_34",
+  "type": "mcq",
+  "question": "Khi nói về quần thể ngẫu phối,\nCó bao nhiêu phát biểu sau đây là đúng?\nI- Quá trình ngẫu phối làm cho tần số kiểu gen dị hợp giảm dần qua các thế hệ.\nII- Quá trình ngẫu phối tạo ra nhiều biến dị tổ hợp.\nIII-Quá trình ngẫu phối không làm thay đổi tần số allele của quần thể.\nIV- Quá trình ngẫu phối làm cho quần thể đa dạng về kiểu gen và kiểu hình.",
+  "choices": [
+    "1.",
+    "2.",
+    "3.",
+    "4."
+  ],
+  "answer": 2
+},
+{
+  "id": "DTQT_TF_01",
+  "type": "tf",
+  "question": "Một quần thể tự thụ phấn, allele A quy định thân cao trội hoàn toàn so với allele a quy định thân thấp;\nallele B quy định hoa đỏ trội hoàn toàn so với allele b quy định hoa trắng.\nThế hệ xuất phát (P) của quần thể này có thành phần kiểu gene là\n0,2 AABb : 0,2 AaBb : 0,2 Aabb : 0,4 aabb.\nCho rằng quần thể không chịu tác động của các nhân tố tiến hóa khác.\nMỗi phát biểu sau đây đúng hay sai về cấu trúc các quần thể này?\na…. F2 có tối đa 10 loại kiểu gene quy định các kiểu hình khác nhau.\nb…. Ở F3, Tần số allele A là 0,6 và B là 0,2.\nc…. Tỉ lệ kiểu gene đồng hợp tăng và tỉ lệ kiểu gene dị hợp giảm dần qua các thế hệ.\nd….. Trong tổng số cây thân cao, hoa đỏ ở F2, có 4/65 số cây có kiểu gene dị hợp tử về cả 2 cặp gene.",
+  "statements": [
+    { "text": "F2 có tối đa 10 loại kiểu gene quy định các kiểu hình khác nhau.", "answer": true },
+    { "text": "Ở F3, Tần số allele A là 0,6 và B là 0,2.", "answer": true },
+    { "text": "Tỉ lệ kiểu gene đồng hợp tăng và tỉ lệ kiểu gene dị hợp giảm dần qua các thế hệ.", "answer": true },
+    { "text": "Trong tổng số cây thân cao, hoa đỏ ở F2, có 4/65 số cây có kiểu gene dị hợp tử về cả 2 cặp gene.", "answer": true }
+  ]
+},
+{
+  "id": "DTQT_TF_02",
+  "type": "tf",
+  "question": "Khi nghiên cứu tỉ lệ nhóm máu trong một quần thể người đã thu được kết quả\n45% số người mang nhóm máu A, 21% số người mang nhóm máu B, 30% số người mang nhóm máu AB và 4% số người mang nhóm máu O.\nGiả sử quần thể nghiên cứu đạt trạng thái cân bằng di truyền.\nMỗi phát biểu sau đây đúng hay sai về cấu trúc các quần thể này?\na…. Có 25% số người mang nhóm máu A có kiểu gene đồng hợp.\nb…. Tần số allele IB là 30%.\nc… Tần số kiểu gene IAIO là 12%.\nd….Tần số kiểu gene IBIO là 9%.",
+  "statements": [
+    { "text": "Có 25% số người mang nhóm máu A có kiểu gene đồng hợp.", "answer": false },
+    { "text": "Tần số allele IB là 30%.", "answer": false },
+    { "text": "Tần số kiểu gene IAIO là 12%.", "answer": true },
+    { "text": "Tần số kiểu gene IBIO là 9%.", "answer": true }
+  ]
+},
+{
+  "id": "DTQT_TF_03",
+  "type": "tf",
+  "question": "Tại một quần thể thực vật giao phấn, một gene có 2 allele,\ntrong đó A quy định kiểu hình thân cao trội hoàn toàn so với a quy định kiểu hình thân thấp,\nthành phần kiểu gene ban đầu là P: 0,2 AA : 0,8 Aa,\nsau 3 thế hệ thành phần kiểu gene quần thể ở thế hệ F3 là 9/25 AA : 12/25 Aa : 4/25 aa.\nMỗi phát biểu sau đây đúng hay sai về cấu trúc các quần thể này?\na…. Tần số allele thế hệ P là A= 3/5 ; a= 2/5.\nb…. Từ P đến F3 quần thể có thể không chịu tác động của chọn lọc tự nhiên.\nc…. Nếu từ thế hệ F3 quần thể chuyển sang tự thụ phấn thì ở F4 tỉ lệ cây thân thấp là 7/25.\nd…. Nếu cho các cây cao ở F3 cho giao phấn ngẫu nhiên đời con có thể thu được 1/9 số cây thân thấp.",
+  "statements": [
+    { "text": "Tần số allele thế hệ P là A= 3/5 ; a= 2/5.", "answer": true },
+    { "text": "Từ P đến F3 quần thể có thể không chịu tác động của chọn lọc tự nhiên.", "answer": true },
+    { "text": "Nếu từ thế hệ F3 quần thể chuyển sang tự thụ phấn thì ở F4 tỉ lệ cây thân thấp là 7/25.", "answer": true },
+    { "text": "Nếu cho các cây cao ở F3 cho giao phấn ngẫu nhiên đời con có thể thu được 1/9 số cây thân thấp.", "answer": false }
+  ]
+},
+{
+  "id": "DTQT_TF_04",
+  "type": "tf",
+  "question": "Thế hệ thứ nhất của một quần thể động vật ở trạng thái cân bằng di truyền có q(a) = 0,2; p(A) = 0,8.\nThế hệ thứ hai của quần thể có cấu trúc 0,672AA : 0,256Aa : 0,072aa.\nMỗi phát biểu sau đây đúng hay sai về cấu trúc các quần thể này?\na… Cấu trúc của quần thể ở thế hệ thứ nhất là 0,64 AA : 0,32 Aa : 0,04 aa.\nb…. So với quần thể thứ nhất thì thế hệ thứ hai có sự tăng tỉ lệ các thể đồng hợp và giảm tỉ lệ dị hợp.\nc….. Quần thể đang chịu tác động của giao phối không ngẫu nhiên.\nd….. Quần thể đang chịu tác động của chọn lọc tự nhiên theo hướng loại bỏ kiểu gene dị hợp.",
+  "statements": [
+    { "text": "Cấu trúc của quần thể ở thế hệ thứ nhất là 0,64 AA : 0,32 Aa : 0,04 aa.", "answer": true },
+    { "text": "So với quần thể thứ nhất thì thế hệ thứ hai có sự tăng tỉ lệ các thể đồng hợp và giảm tỉ lệ dị hợp.", "answer": true },
+    { "text": "Quần thể đang chịu tác động của giao phối không ngẫu nhiên.", "answer": true },
+    { "text": "Quần thể đang chịu tác động của chọn lọc tự nhiên theo hướng loại bỏ kiểu gene dị hợp.", "answer": false }
+  ]
+},
+{
+  "id": "DTQT_TF_05",
+  "type": "tf",
+  "question": "Hình bên mô tả sự biến đổi tần số ba kiểu gene AA, Aa, aa ở một quần thể thực vật.\nBiết quần thể không chịu tác động của chọn lọc tự nhiên và yếu tố ngẫu nhiên.\nMỗi phát biểu sau đây đúng hay sai về cấu trúc các quần thể này?\na…Hình thức sinh sản của quần thể trên là tự thụ phấn.\nb… Ở quần thể trên, tần số allele không đổi qua các thế hệ.\nc…. Ở thế hệ 0, quần thể có thể có cấu trúc di truyền là 0,36AA + 0,48Aa + 0,16aa = 1.\nd…. Quần thể trên thích nghi và phát triển tốt trong điều kiện môi trường sống ổn định.",
+  "statements": [
+    { "text": "Hình thức sinh sản của quần thể trên là tự thụ phấn.", "answer": true },
+    { "text": "Ở quần thể trên, tần số allele không đổi qua các thế hệ.", "answer": true },
+    { "text": "Ở thế hệ 0, quần thể có thể có cấu trúc di truyền là 0,36AA + 0,48Aa + 0,16aa = 1.", "answer": true },
+    { "text": "Quần thể trên thích nghi và phát triển tốt trong điều kiện môi trường sống ổn định.", "answer": false }
+  ]
+},
+{
+  "id": "DTQT_TF_06",
+  "type": "tf",
+  "question": "Tại một quần thể sinh vật ngẫu phối, xét một gene có hai allele,\nallele A trội hoàn toàn so với allele a.\nGiả sử chỉ dưới tác động của chọn lọc tự nhiên theo hướng phân hoá khả năng sinh sản,\ntần số allele của quần thể này ở các thế hệ như sau:\nThế hệ F1 F2 F3 F4\nTần số allele A 3/5 5/7 7/9 9/11\nBiết rằng từ thế hệ ban đầu (P), quần thể đã có đủ các kiểu gene.\nMỗi phát biểu sau đây đúng hay sai về cấu trúc các quần thể này?\na…. Sự chọn lọc là có hại cho bản thân sinh vật nhưng có lợi cho quần thể.\nb…. Các cá thể mang kiểu gene aa đang được ưu tiên giao phối hơn so với AA và Aa.\nc…... Môi trường sống của quần thể ở F1 có thể đã bất lợi cho khoảng 16% cá thể.\nd….. Nếu vẫn tiếp tục chọn lọc, trên lý thuyết, F5 có tỉ lệ Aa = 44/169.",
+  "statements": [
+    { "text": "Sự chọn lọc là có hại cho bản thân sinh vật nhưng có lợi cho quần thể.", "answer": true },
+    { "text": "Các cá thể mang kiểu gene aa đang được ưu tiên giao phối hơn so với AA và Aa.", "answer": false },
+    { "text": "Môi trường sống của quần thể ở F1 có thể đã bất lợi cho khoảng 16% cá thể.", "answer": true },
+    { "text": "Nếu vẫn tiếp tục chọn lọc, trên lý thuyết, F5 có tỉ lệ Aa = 44/169.", "answer": true }
+  ]
+},
+{
+  "id": "DTQT_TF_07",
+  "type": "tf",
+  "question": "Hình dưới đây thể hiện tỉ lệ các loại kiểu gene qui định màu lông của hai quần thể động vật thuộc cùng một loài,\nallele A qui định lông trắng trội hoàn toàn so với allele a qui định lông đen, gene nằm trên nhiễm sắc thể thường.\nMỗi phát biểu sau đây đúng hay sai về cấu trúc các quần thể này?\na…. Cấu trúc di truyền của quần thể I đang ở trạng thái cân bằng.\nb…. Tần số allele A và a ở cả 2 quần thể I và II lần lượt là: 0,3; 0,7.\nc…. Cho 2 cá thể đều có màu lông trắng ở quần thể I và II giao phối với nhau thu được F1.\nTính theo lý thuyết F1 thu được cá thể lông màu đen là 25/136.\nd…. Nếu các cá thể ở quần thể I có cùng màu lông giao phối với nhau mà không giao phối với các cá thể khác màu lông của cơ thể mình.\nTheo lý thuyết, Tỉ lệ cá thể lông trắng ở là 36/85.",
+  "statements": [
+    { "text": "Cấu trúc di truyền của quần thể I đang ở trạng thái cân bằng.", "answer": false },
+    { "text": "Tần số allele A và a ở cả 2 quần thể I và II lần lượt là: 0,3; 0,7.", "answer": false },
+    { "text": "Cho 2 cá thể đều có màu lông trắng ở quần thể I và II giao phối với nhau thu được F1. Tính theo lý thuyết F1 thu được cá thể lông màu đen là 25/136.", "answer": true },
+    { "text": "Nếu các cá thể ở quần thể I có cùng màu lông giao phối với nhau mà không giao phối với các cá thể khác màu lông của cơ thể mình. Theo lý thuyết, Tỉ lệ cá thể lông trắng ở là 36/85.", "answer": false }
+  ]
+},
+{
+  "id": "DTQT_TF_08",
+  "type": "tf",
+  "question": "Tại một hòn đảo biệt lập, có một quần thể thực vật lưỡng tính,\ntrong đó allele A quy định hoa đỏ trội hoàn toàn so với allele a quy định hoa trắng.\nBiết rằng loài này thụ phấn nhờ một loài côn trùng ăn mật hoa,\nnhững hoa không có côn trùng bay vào thì sẽ tự thụ phấn.\nTại thời điểm khảo sát (F0), quần thể có cấu trúc di truyền 0,36AA: 0,48Aa: 0,16aa.\nXét các phát biểu sau đây là đúng hay sai?\na…Nếu có 80% hoa được thụ phấn ngẫu nhiên nhờ côn trùng thì ở F1, quần thể có 18,4% hoa trắng.\nb….Nếu các cá thể côn trùng chỉ thụ phấn ngẫu nhiên cho các hoa đỏ thì tại F1, tỉ lệ hoa trắng chiếm tỉ lệ 18,2%.\nc…. Do yếu tố ngẫu nhiên, đàn côn trùng biến mất một cách đột ngột, thì sau nhiều thế hệ, tỉ lệ hoa đỏ giảm dần.\nd…. Nếu không có tác động của các nhân tố tiến hóa khác, có thể kết luận rằng tỉ lệ các hoa không được côn trùng thụ phấn là không đáng kể.",
+  "statements": [
+    { "text": "Nếu có 80% hoa được thụ phấn ngẫu nhiên nhờ côn trùng thì ở F1, quần thể có 18,4% hoa trắng.", "answer": false },
+    { "text": "Nếu các cá thể côn trùng chỉ thụ phấn ngẫu nhiên cho các hoa đỏ thì tại F1, tỉ lệ hoa trắng chiếm tỉ lệ 18,2%.", "answer": false },
+    { "text": "Do yếu tố ngẫu nhiên, đàn côn trùng biến mất một cách đột ngột, thì sau nhiều thế hệ, tỉ lệ hoa đỏ giảm dần.", "answer": false },
+    { "text": "Nếu không có tác động của các nhân tố tiến hóa khác, có thể kết luận rằng tỉ lệ các hoa không được côn trùng thụ phấn là không đáng kể.", "answer": true }
+  ]
+},
+{
+  "id": "DTQT_TF_09",
+  "type": "tf",
+  "question": "Ở một loài thực vật giao phấn, có hai quần thể sống ở hai bên bờ sông.\nQuần thể 1 có cấu trúc di truyền là: 0,81AA : 0,18Aa : 0,01aa;\nquần thể 2 có cấu trúc di truyền là: 0,49AA : 0,42Aa : 0,09aa.\nTheo chiều gió thổi, một số hạt phấn từ quần thể 2 phát tán sang quần thể 1 và cấu trúc di truyền của quần thể 2 không thay đổi.\nGiả sử tỉ lệ hạt phấn phát tán từ quần thể 2 sang quần thể 1 qua các thế hệ như nhau;\nkích thước của hai quần thể không đổi qua các thế hệ.\nXét các phát biểu sau đây là đúng hay sai?\na… Tần số allele A trong quần thể 1 có xu hướng giảm dần qua các thế hệ.\nb…. Tần số allele A trong quần thể 1 giữ nguyên không đổi khi kích thước quần thể 1 gấp 3 lần quần thể 2.\nc…. Sau n thế hệ bị tạp giao thì quần thể 1 bị biến đổi cấu trúc di truyền giống quần thể 2.\nd…. Tần số allele A trong quần thể 1 sẽ tăng khi kích thước quần thể 2 nhỏ hơn rất nhiều so với quần thể 1.",
+  "statements": [
+    { "text": "Tần số allele A trong quần thể 1 có xu hướng giảm dần qua các thế hệ.", "answer": true },
+    { "text": "Tần số allele A trong quần thể 1 giữ nguyên không đổi khi kích thước quần thể 1 gấp 3 lần quần thể 2.", "answer": false },
+    { "text": "Sau n thế hệ bị tạp giao thì quần thể 1 bị biến đổi cấu trúc di truyền giống quần thể 2.", "answer": true },
+    { "text": "Tần số allele A trong quần thể 1 sẽ tăng khi kích thước quần thể 2 nhỏ hơn rất nhiều so với quần thể 1.", "answer": false }
+  ]
+},
+{
+  "id": "DTQT_TF_10",
+  "type": "tf",
+  "question": "Để xác định tần số các allele của locus A nằm trên NST thường ở một loài thú,\nngười ta đã tiến hành thu mẫu ADN của 15 cá thể ngẫu nhiên trong quần thể, chia làm 3 nhóm, mỗi nhóm có 5 cá thể.\nMẫu ADN của mỗi cá thể được xử lý với enzyme cắt giới hạn để cắt locus A ra khỏi hệ gene,\nsau đó khuếch đại bằng phương pháp PCR.\nCác sản phẩm PCR được tinh sạch (chỉ còn các bản sao của locus A) và tiến hành phân tích bằng phương pháp điện di.\nKết quả điện di được mô tả ở hình 10.\nBiết rằng allele 1 là allele kiểu dại, quy định kiểu hình lông đen,\ncác allele 2, 3 đều là các allele đột biến, quy định kiểu hình lông xám và lặn so với allele 1,\nkiểu gene chứa cả allele 2 và 3 cho kiểu hình lông xám.\nQuy ước allele 1 là A1, allele 2 là A2, allele 3 là A3\nXét các phát biểu sau đây là đúng hay sai?\na …….. Trong 15 cá thể, tỷ lệ số cá thể lông đen so với số cá thể lông xám là 9 : 6.\nb ……. Tỷ lệ allele trội so với allele lặn trong quần thể 15 cá thể là 3/7.\nc ……. Cho các cá thể trong quần thể giao phối ngẫu nhiên, đời con F1 có thể có tỷ lệ kiểu gene đồng hợp tử là 0,34.\nd ……. Cho các cá thể trong quần thể giao phối ngẫu nhiên, đời con F1 có thể có tỷ lệ kiểu hình lông đen so với tỷ lệ kiểu hình lông xám là 41/59.",
+  "statements": [
+    { "text": "Trong 15 cá thể, tỷ lệ số cá thể lông đen so với số cá thể lông xám là 9 : 6.", "answer": true },
+    { "text": "Tỷ lệ allele trội so với allele lặn trong quần thể 15 cá thể là 3/7.", "answer": false },
+    { "text": "Cho các cá thể trong quần thể giao phối ngẫu nhiên, đời con F1 có thể có tỷ lệ kiểu gene đồng hợp tử là 0,34.", "answer": true },
+    { "text": "Cho các cá thể trong quần thể giao phối ngẫu nhiên, đời con F1 có thể có tỷ lệ kiểu hình lông đen so với tỷ lệ kiểu hình lông xám là 41/59.", "answer": true }
+  ]
+}
+]
+}
